@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//congreso_agenda_ics//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Agenda Congreso de los Diputados
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:a589e66d314cfc60360ac68fc028a11f@congreso.es
+DTSTAMP:20260405T211750Z
+DTSTART:20260407T093000Z
+DTEND:20260407T113000Z
+SUMMARY:Visita a la Mesa y Portavoces de la Comisión de Hacienda y Funció
+ n Pública de una delegación de la OCDE
+LOCATION:Sala Lázaro Dou
+DESCRIPTION:Visita a la Mesa y Portavoces de la Comisión de Hacienda y Fun
+ ción Pública de una delegación de la OCDE.\nSala: Sala Lázaro Dou\nFue
+ nte: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:0b277aa0391cbc0122f4b31a6a657898@congreso.es
+DTSTAMP:20260405T211750Z
+DTSTART:20260407T093000Z
+DTEND:20260407T113000Z
+SUMMARY:Subcomisión encargada de redactar la propuesta de mandato-marco a 
+ la Corporación RTVE previsto en el artículo 4 de la Le
+LOCATION:Palacio del Senado
+DESCRIPTION:Subcomisión encargada de redactar la propuesta de mandato-marc
+ o a la Corporación RTVE previsto en el artículo 4 de la Ley 17/2006\, de
+  5 de junio\, de la radio y la televisión de titularidad estatal . Compar
+ ecencias: 11:30 h. Carmelo Garitaonandia Garnacho \, catedrático de Perio
+ dismo de la Universidad del País Vasco/EHU. 12:30 h. José Antonio Herná
+ ndez de la Moya \, productor y periodista de RTVE.\nSala: Palacio del Sena
+ do\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:6f6ddba93952f498764ff5cafc045e5d@congreso.es
+DTSTAMP:20260405T211750Z
+DTSTART:20260408T090000Z
+DTEND:20260408T110000Z
+SUMMARY:Comisión Constitucional
+LOCATION:Sala Prim
+DESCRIPTION:Comisión Constitucional . Comparecencia del ministro de Presid
+ encia\, Justicia y Relaciones con las Cortes \, para dar cuenta del Plan N
+ ormativo 2025 del Gobierno\, entre otros asuntos. Nota de prensa . Ver dir
+ ecto . YouTube . Torrespaña 1 .\nSala: Sala Prim\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:aef367a4ffe37be18d72a2615aa524ee@congreso.es
+DTSTAMP:20260405T211750Z
+DTSTART:20260408T100000Z
+DTEND:20260408T120000Z
+SUMMARY:Comisión de Economía\, Comercio y Transformación Digital
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión de Economía\, Comercio y Transformación Digital . C
+ omparecencia del vicepresidente primero del Gobierno y ministro de Econom
+ ía\, Comercio y Empresa \, a petición propia\, para informar sobre el Pl
+ an de Respuesta y de Relanzamiento Comercial\, cumpliendo con la disposici
+ ón adicional cuarta del Real Decreto-ley 4/2025\, de 8 de abril\, de medi
+ das urgentes de respuesta a la amenaza arancelaria y de relanzamiento come
+ rcial. Nota de prensa . Ver directo . YouTube . Torrespaña 2 .\nSala: Sal
+ a Constitucional\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:22caa6cce4e377693fb6192182810415@congreso.es
+DTSTAMP:20260405T211750Z
+DTSTART:20260408T153000Z
+DTEND:20260408T173000Z
+SUMMARY:Jornada de sensibilización sobre la prevención de la pérdida de 
+ audición \, a petición de la Asociación Nacional de Fabri
+LOCATION:Sala Clara Campoamor
+DESCRIPTION:Jornada de sensibilización sobre la prevención de la pérdida
+  de audición \, a petición de la Asociación Nacional de Fabricantes e I
+ mportadores de Audífonos. Torrespaña 3 . Ver directo.\nSala: Sala Clara 
+ Campoamor\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:f03d0eb3072d25cc1cd3643b3a07599a@congreso.es
+DTSTAMP:20260405T211750Z
+DTSTART:20260409T070000Z
+DTEND:20260409T090000Z
+SUMMARY:Comisión de Asuntos Exteriores
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión de Asuntos Exteriores . Comparecencia del ministro de
+  Asuntos Exteriores\, Unión Europea y Cooperación para informar nuevamen
+ te sobre el acuerdo UE-Reino Unido en relación con Gibraltar\, entre otro
+ s asuntos. Dictámenes sobre acuerdos. Nota de prensa . Ver directo . YouT
+ ube . Torrespaña 1.\nSala: Sala Constitucional\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:116b4b4a3d362f878463efdfacdacdfb@congreso.es
+DTSTAMP:20260405T211750Z
+DTSTART:20260410T070000Z
+DTEND:20260410T090000Z
+SUMMARY:Celebración de la fase final de la III Liga Universitaria de Debat
+ e Académico \, a solicitud de la Asociacion de Colegios
+DESCRIPTION:Celebración de la fase final de la III Liga Universitaria de D
+ ebate Académico \, a solicitud de la Asociacion de Colegios Mayores de Ma
+ drid. Salas Cánovas y Sagasta. Ver directo Sala Cánovas . Torrespaña 1 
+ . Ver directo Sala Sagasta . Torrespaña 2\nSala: \nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+END:VCALENDAR
