@@ -1,0 +1,29 @@
+name: Agenda Congreso
+
+on:
+  schedule:
+    - cron: '30 16 * * 0'  # Domingos 17:30 hora Madrid (UTC+1)
+  workflow_dispatch:        # permite ejecutarlo manualmente
+
+jobs:
+  generar-agenda:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar dependencias
+        run: |
+          pip install playwright beautifulsoup4 lxml
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Generar ICS
+        run: python3 congreso_agenda_ics.py
+
+      - name: Subir ICS como artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: agenda-semana
+          path: agenda_congreso_*.ics
+          retention-days: 7
