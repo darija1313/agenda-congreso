@@ -2,8 +2,8 @@ name: Agenda Congreso
 
 on:
   schedule:
-    - cron: '30 16 * * 0'  # Domingos 17:30 hora Madrid (UTC+1)
-  workflow_dispatch:        # permite ejecutarlo manualmente
+    - cron: '30 16 * * 0'
+  workflow_dispatch:
 
 jobs:
   generar-agenda:
@@ -19,11 +19,13 @@ jobs:
           playwright install-deps chromium
 
       - name: Generar ICS
-        run: python3 congreso_agenda_ics.py
+        run: |
+          python3 congreso_agenda_ics.py --output docs/agenda_congreso.ics
 
-      - name: Subir ICS como artefacto
-        uses: actions/upload-artifact@v4
-        with:
-          name: agenda-semana
-          path: agenda_congreso_*.ics
-          retention-days: 7
+      - name: Publicar en GitHub Pages
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/agenda_congreso.ics
+          git commit -m "Actualizar agenda semanal"
+          git push
