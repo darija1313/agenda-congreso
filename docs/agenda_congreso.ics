@@ -6,213 +6,69 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:c39c36349daf4ec0b3fcbd27691b5a68@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260504T090000Z
-DTEND:20260504T110000Z
-SUMMARY:Encuentro con los Grupos Parlamentarios en el que poder debatir dis
- tintas medidas de conciliación en el marco de su camp
-LOCATION:Sala Clara Campoamor
-DESCRIPTION:Encuentro con los Grupos Parlamentarios en el que poder debatir
-  distintas medidas de conciliación en el marco de su campaña sobre la im
- portancia de los cuidados \, a solicitud de la Asociación Yo No Renuncio.
-  Ver directo. Torrespaña 1.\nSala: Sala Clara Campoamor\nFuente: congreso
- .es
+UID:133a6d2719f852e44c28526a72969674@congreso.es
+DTSTAMP:20260510T172722Z
+DTSTART:20260511T140000Z
+DTEND:20260511T160000Z
+SUMMARY:Encuentro centrado en la actividad de la Comisión para la Transici
+ ón Ecológica y el Reto Demográfico del Congreso \, a so
+LOCATION:Sala Pérez-Llorca
+DESCRIPTION:Encuentro centrado en la actividad de la Comisión para la Tran
+ sición Ecológica y el Reto Demográfico del Congreso \, a solicitud de F
+ orética. Torrespaña 1.\nSala: Sala Pérez-Llorca\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:07337534211cc2ae4d0ac12a1093947c@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260504T101500Z
-DTEND:20260504T121500Z
-SUMMARY:Comisión Mixta para la Unión Europea
-LOCATION:Sala Prim
-DESCRIPTION:Comisión Mixta para la Unión Europea . Comparecencia de Marta
-  Kos \, comisaria europea de Ampliación. Ver directo . YouTube . Torrespa
- ña 3 .\nSala: Sala Prim\nFuente: congreso.es
+UID:60356068d3e96fb7c715985dc0bfd631@congreso.es
+DTSTAMP:20260510T172722Z
+DTSTART:20260511T150000Z
+DTEND:20260511T170000Z
+SUMMARY:Jornada Cuerpos fuera de plano \, a solicitud del Grupo Parlamentar
+ io SUMAR
+LOCATION:Sala Constitucional
+DESCRIPTION:Jornada Cuerpos fuera de plano \, a solicitud del Grupo Parlame
+ ntario SUMAR. Ver directo . Torrespaña 2.\nSala: Sala Constitucional\nFue
+ nte: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:a47a843de4f548181201712f6b8c730f@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260504T124500Z
-DTEND:20260504T144500Z
-SUMMARY:Jornada Inteligencia artificial y el futuro del trabajo \, a solici
- tud del Grupo Parlamentario SUMAR
+UID:9540613f83e7b4c95d915184cdd641b6@congreso.es
+DTSTAMP:20260510T172722Z
+DTSTART:20260512T100000Z
+DTEND:20260512T120000Z
+SUMMARY:Comisión para las Políticas Integrales de la Discapacidad
 LOCATION:Sala Cánovas
-DESCRIPTION:Jornada Inteligencia artificial y el futuro del trabajo \, a so
- licitud del Grupo Parlamentario SUMAR. Ver directo . Torrespaña 2.\nSala:
-  Sala Cánovas\nFuente: congreso.es
+DESCRIPTION:Comisión para las Políticas Integrales de la Discapacidad . C
+ omparecencias: 12:00 h. Marta Castillo Díaz \, patrona de la Fundación C
+ ERMI Mujeres. 13:00 h. Alfonso Gutiérrez Caballero \, presidente de la As
+ ociación Española de Empleo con Apoyo (AESE). 14:00 h. Conjunta de Yolan
+ da María de la Fuente Robles \, catedrática de Trabajo Social y Servicio
+ s Sociales de la Universidad de Jaén\, y Rosa María Díaz Jiménez \, ca
+ tedrática y profesora titular de Trabajo Social y Servicios Sociales de l
+ a Universidad Pablo de Olavide de Sevilla. Nota de prensa . Ver directo . 
+ YouTube . Torrespaña 1 .\nSala: Sala Cánovas\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:61c39ccff290ca3aabc0ccac483312f8@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260505T140000Z
-DTEND:20260505T160000Z
-SUMMARY:Visita a la Mesa y Portavoces de la Comisión Mixta para la Unión 
- Europea de un grupo de parlamentarios United for Ukrain
-LOCATION:Sala Lázaro Dou
-DESCRIPTION:Visita a la Mesa y Portavoces de la Comisión Mixta para la Uni
- ón Europea de un grupo de parlamentarios United for Ukraine .\nSala: Sala
-  Lázaro Dou\nFuente: congreso.es
+UID:f50a1804df4971dc14336add42615f72@congreso.es
+DTSTAMP:20260510T172722Z
+DTSTART:20260512T110000Z
+DTEND:20260512T130000Z
+SUMMARY:Comisión Mixta para el Estudio de los Problemas de las Adicciones
+LOCATION:Palacio del Senado
+DESCRIPTION:Comisión Mixta para el Estudio de los Problemas de las Adiccio
+ nes . Contestación a preguntas.\nSala: Palacio del Senado\nFuente: congre
+ so.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:1b2acf62bd8913f0c54b2d74e5d36234@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260506T080000Z
-DTEND:20260506T100000Z
-SUMMARY:Jornada El Derecho Humano a la Alimentación en España a debate: H
- acia una política alimentaria justa\, sostenible y garan
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Jornada El Derecho Humano a la Alimentación en España a debat
- e: Hacia una política alimentaria justa\, sostenible y garantista del cam
- po a la mesa . Ver directo . Torrespaña 1.\nSala: Sala Ernest Lluch\nFuen
- te: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:602b328a3fbd661a4100c6f3bd7d0d12@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260506T080000Z
-DTEND:20260506T100000Z
-SUMMARY:Visita a la Mesa y Portavoces de la Comisión de Defensa de un grup
- o de parlamentarios United for Ukraine
-LOCATION:Sala Lázaro Dou
-DESCRIPTION:Visita a la Mesa y Portavoces de la Comisión de Defensa de un 
- grupo de parlamentarios United for Ukraine .\nSala: Sala Lázaro Dou\nFuen
- te: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:252c8f946983782a2a5a110a5625a9d2@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260506T090000Z
-DTEND:20260506T110000Z
-SUMMARY:Visita a la Mesa y Portavoces de la Comisión de Defensa de una del
- egación del Royal College of Defence Studies (RCDS)
-LOCATION:Sala Sagasta
-DESCRIPTION:Visita a la Mesa y Portavoces de la Comisión de Defensa de una
-  delegación del Royal College of Defence Studies (RCDS).\nSala: Sala Saga
- sta\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:c0d6c6fa53c92ab34dbed3f13448082c@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260506T100000Z
-DTEND:20260506T120000Z
-SUMMARY:Presentación del libro Hispania Nostra 50 años
-LOCATION:Sala Clara Campoamor
-DESCRIPTION:Presentación del libro Hispania Nostra 50 años. Una trayector
- ia hacia el futuro \, a solicitud de Hispania Nostra. Ver directo. Torresp
- aña 2.\nSala: Sala Clara Campoamor\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:c5be9dff011f726e6f64da175ca00c3d@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260507T073000Z
-DTEND:20260507T093000Z
-SUMMARY:Jornada-debate El estado de la movilidad eléctrica en España
-LOCATION:Sala Clara Campoamor
-DESCRIPTION:Jornada-debate El estado de la movilidad eléctrica en España.
-  Impacto positivo en la economía\, la industria y las personas \, a solic
- itud de Transport & Environment (T&E). Ver directo . Torrespaña 1.\nSala:
-  Sala Clara Campoamor\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:0e8f825fe508f15b3bcf78f3261f72ac@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260507T090000Z
-DTEND:20260507T110000Z
-SUMMARY:Subcomisión encargada de redactar la propuesta de mandato-marco a 
- la Corporación RTVE previsto en el artículo 4 de la Le
-LOCATION:Sala Argüelles
-DESCRIPTION:Subcomisión encargada de redactar la propuesta de mandato-marc
- o a la Corporación RTVE previsto en el artículo 4 de la Ley 17/2006\, de
-  5 de junio\, de la radio y la televisión de titularidad estatal para el 
- día 27 de noviembre de 2025 . Redacción de la propuesta de mandato-marco
-  a la Corporación RTVE.\nSala: Sala Argüelles\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:de1f99cd9dcd77e7272c04ec23c513de@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260507T090000Z
-DTEND:20260507T110000Z
-SUMMARY:Jornada Combustibles Renovables: Autonomía Estratégica\, Competit
- ividad Industrial y Descarbonización
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Jornada Combustibles Renovables: Autonomía Estratégica\, Comp
- etitividad Industrial y Descarbonización . Ver directo . Torrespaña 2.\n
- Sala: Sala Ernest Lluch\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:ce8edf63ec92b3fa371da1ad4cb2587c@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260507T110000Z
-DTEND:20260507T130000Z
+UID:3f80bc3f3ac3ae6192c2baa9cd202bf7@congreso.es
+DTSTAMP:20260510T172722Z
+DTSTART:20260514T103000Z
+DTEND:20260514T123000Z
 SUMMARY:Junta Electoral Central
 LOCATION:Sala SERT
 DESCRIPTION:Junta Electoral Central.\nSala: Sala SERT\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:ae90091f21eb875796347fba58cb2bf5@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260507T140000Z
-DTEND:20260507T160000Z
-SUMMARY:Conferencia Bebés robados: memoria\, justicia y reparación \, a s
- olicitud de la diputada Ione Belarra Urteaga\, portavoz de
-LOCATION:Sala Sagasta
-DESCRIPTION:Conferencia Bebés robados: memoria\, justicia y reparación \,
-  a solicitud de la diputada Ione Belarra Urteaga\, portavoz del Grupo Parl
- amentario Mixto. Ver directo. Torrespaña 3.\nSala: Sala Sagasta\nFuente: 
- congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:4b1b908249acb5f67e260542e9e9b824@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260507T153000Z
-DTEND:20260507T173000Z
-SUMMARY:Conversatorio con el periodista Daniel Kersffeld titulado América 
- Latina en la Era Trump \, a solicitud del Grupo Parlame
-LOCATION:Sala Cánovas
-DESCRIPTION:Conversatorio con el periodista Daniel Kersffeld titulado Amér
- ica Latina en la Era Trump \, a solicitud del Grupo Parlamentario Plurinac
- ional SUMAR. Ver directo. Torrespaña 4.\nSala: Sala Cánovas\nFuente: con
- greso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:774a0fafd37b7ff3cb26f9725ec0f402@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260508T090000Z
-DTEND:20260508T110000Z
-SUMMARY:Jornadas Defensa contra inundaciones \, a solicitud de la Asociaci
- ón de exdiputados y exsenadores
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Jornadas Defensa contra inundaciones \, a solicitud de la Asoci
- ación de exdiputados y exsenadores. Ver directo. Torrespaña 1 .\nSala: S
- ala Ernest Lluch\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:e3814f3fcb9ef357832dc2cb5e5a5bf7@congreso.es
-DTSTAMP:20260503T171248Z
-DTSTART:20260508T140000Z
-DTEND:20260508T160000Z
-SUMMARY:Jornadas La cárcel no es lugar para quien cultiva vida \, a solici
- tud del Grupo Parlamentario Plurinacional SUMAR
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Jornadas La cárcel no es lugar para quien cultiva vida \, a so
- licitud del Grupo Parlamentario Plurinacional SUMAR. Ver directo . Torresp
- aña 2.\nSala: Sala Ernest Lluch\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
