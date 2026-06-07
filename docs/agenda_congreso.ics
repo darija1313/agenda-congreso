@@ -6,229 +6,383 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:c101c3382ce937158e4feba27d61cdbe@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260601T080000Z
-DTEND:20260601T100000Z
-SUMMARY:Presentación oficial como Confederación \, a solicitud de la Conf
- ederación Estatal de Servicios (“alianzAS”)
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Presentación oficial como Confederación \, a solicitud de la 
- Confederación Estatal de Servicios (“alianzAS”). Ver directo . Torres
- paña 2.\nSala: Sala Ernest Lluch\nFuente: congreso.es
+UID:8036428ffa9a450419e942d4f001edb0@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260608T083000Z
+DTEND:20260608T103000Z
+SUMMARY:Visita a las Cortes Generales de Su Santidad el Papa León XIV
+LOCATION:Palacio
+DESCRIPTION:Visita a las Cortes Generales de Su Santidad el Papa León XIV.
+  Nota de prensa . Ver directo . Ver directo lengua de signos . YouTube . Y
+ ouTube accesible . Torrespaña 1 y 2.\nSala: Palacio\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:61890fda035918eeb0b092270b83f082@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260601T083000Z
-DTEND:20260601T103000Z
-SUMMARY:Presentación del informe El coste de la RAM en España
-LOCATION:Sala Sagasta
-DESCRIPTION:Presentación del informe El coste de la RAM en España. Recome
- ndaciones para incentivar el desarrollo y el acceso de nuevos antimicrobia
- nos \, a solicitud de la Sociedad Española de Medica Intensiva Crítica y
-  Unidades Coronarias (SEMICYUC). Ver directo . Torrespaña 3.\nSala: Sala 
- Sagasta\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:b99feac1add790638f09236dbb5edee6@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260601T090000Z
-DTEND:20260601T110000Z
-SUMMARY:y 15:30 h
-LOCATION:Sala Prim
-DESCRIPTION:y 15:30 h. Comisión de Investigación sobre la gestión de la 
- crisis derivada de la DANA que tuvo lugar el 29 de octubre de 2024\, así 
- como para el estudio y propuesta de medidas de mejora destinadas a paliar 
- los efectos de estos fenómenos adversos en el futuro . Comparecencias: 11
- :00 h. Alfonso Novo Belenguer \, gerente de Ferrocarrils de la Generalit V
- alenciana (FGV). 15:30 h. Ivan Esteve Besalduch \, exdirector de informati
- vos de À Punt. Nota de prensa . Ver directo . YouTube . Torrespaña 1 .\n
- Sala: Sala Prim\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:d301f6c934b4b289d15dd8623d4b92f3@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260601T131500Z
-DTEND:20260601T151500Z
-SUMMARY:Visita a la Mesa y Portavoces de Cooperación Internacional para el
-  Desarrollo de la subsecretaria general de la ONU y di
-LOCATION:Sala Lázaro Dou
-DESCRIPTION:Visita a la Mesa y Portavoces de Cooperación Internacional par
- a el Desarrollo de la subsecretaria general de la ONU y directora regional
-  para América Latina y el Caribe\, Michelle Muschett.\nSala: Sala Lázaro
-  Dou\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:2681be151ee1e21177fc5d42013b81df@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260601T150000Z
-DTEND:20260601T170000Z
-SUMMARY:Jornadas sobre libertad de expresión \, a petición del Grupo Parl
- amentario VOX
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Jornadas sobre libertad de expresión \, a petición del Grupo 
- Parlamentario VOX. Ver directo . Torrespaña 4.\nSala: Sala Ernest Lluch\n
- Fuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:d25572ae8f21894152e774d99d623c97@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260601T151500Z
-DTEND:20260601T171500Z
-SUMMARY:Visita a la la Mesa y Portavoces de la Comisión de Asuntos Exterio
- res y la Mesa y Portavoces de la Comisión de Cooperaci
-LOCATION:Sala SERT
-DESCRIPTION:Visita a la la Mesa y Portavoces de la Comisión de Asuntos Ext
- eriores y la Mesa y Portavoces de la Comisión de Cooperación Internacion
- al para el Desarrollo del secretario general adjunto de Naciones Unidas pa
- ra Asuntos Humanitarios\, Tom Fletcher.\nSala: Sala SERT\nFuente: congreso
+UID:0139bef7ae36e14857d228b5c0dc2b87@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260608T103000Z
+DTEND:20260608T123000Z
+SUMMARY:Mesa del Congreso
+LOCATION:Salón de Ministros
+DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
  .es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:ab820af17cb88d4b08167d6c759897e8@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260602T073000Z
-DTEND:20260602T093000Z
-SUMMARY:Jornada Modernización de la contratación del Sector Público
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Jornada Modernización de la contratación del Sector Público.
-  Propuesta de modificación \, a solicitud de la Asociación de Empresas C
- onstructoras y Concesionarias de Infraestructuras (SEOPAN). Ver directo . 
- Torrespaña 1.\nSala: Sala Ernest Lluch\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:c6810b2ed793e23578e66aa757d0502b@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260602T073000Z
-DTEND:20260602T093000Z
-SUMMARY:Jornada parlamentaria en el marco de la V Conferencia Ministerial s
- obre política Exterior Feminista: Construyendo paz y 
-LOCATION:Sala Constitucional
-DESCRIPTION:Jornada parlamentaria en el marco de la V Conferencia Ministeri
- al sobre política Exterior Feminista: Construyendo paz y democracia \, a 
- solicitud del Foro Parlamentario Europeo por los Derechos Sexuales y Repro
- ductivos (EPF). Ver directo. Torrespaña 2.\nSala: Sala Constitucional\nFu
- ente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:84e8364804e2e5c274c397873d393223@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260602T140000Z
-DTEND:20260602T160000Z
-SUMMARY:Acto de entrega de diplomas Doctor Honoris Causa en Derechos Humano
- s \, a solicitud de la Asociación Civil Centro UNESCO 
-LOCATION:Sala Clara Campoamor
-DESCRIPTION:Acto de entrega de diplomas Doctor Honoris Causa en Derechos Hu
- manos \, a solicitud de la Asociación Civil Centro UNESCO para la Formaci
- ón en Derechos Humanos Ciudadanía Mundial y Cultura de Paz. Ver directo 
- . Torrespaña 3.\nSala: Sala Clara Campoamor\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:7d5430a18efd480b5a720e6b43d83872@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260603T090000Z
-DTEND:20260603T110000Z
-SUMMARY:Jornada del Círculo de Directivas Eugenia de Montijo sobre lideraz
- go femenino y el papel de la mujer en el mundo de la a
+UID:0afe1bb4542a0d67de78b264be7311eb@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260608T113000Z
+DTEND:20260608T133000Z
+SUMMARY:Junta de Portavoces
 LOCATION:Sala Mariana Pineda
-DESCRIPTION:Jornada del Círculo de Directivas Eugenia de Montijo sobre lid
- erazgo femenino y el papel de la mujer en el mundo de la alta dirección \
- , a solicitud de la Cámara de Comercio Franco-Española.\nSala: Sala Mari
- ana Pineda\nFuente: congreso.es
+DESCRIPTION:Junta de Portavoces.\nSala: Sala Mariana Pineda\nFuente: congre
+ so.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:5fa8cec16a31e020dbbe8a7ee08520ce@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260603T095000Z
-DTEND:20260603T115000Z
-SUMMARY:Presentación de un documento sobre gasto sanitario en España \, a
-  solicitud del Foro Económico de Galicia
-LOCATION:Sala Clara Campoamor
-DESCRIPTION:Presentación de un documento sobre gasto sanitario en España 
- \, a solicitud del Foro Económico de Galicia. Ver directo . Torrespaña 2
- .\nSala: Sala Clara Campoamor\nFuente: congreso.es
+UID:8ce4ef7c9ec6a14fc6ec0f515571a4e6@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260609T070000Z
+DTEND:20260609T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión Mixta de Seguridad Nacional
+LOCATION:Sala Prim
+DESCRIPTION:Mesa y Portavoces de la Comisión Mixta de Seguridad Nacional.\
+ nSala: Sala Prim\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:e6befb7424c16bcbc735d1192619f830@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260603T100000Z
-DTEND:20260603T120000Z
-SUMMARY:Acto de presentación del XIV Informe sobre el estado de la pobreza
-  en España \, a solicitud de Red Europea de Lucha contr
+UID:9dbf2b82e1d2a0c62e03d8d3f02b05fa@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260609T070000Z
+DTEND:20260609T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión Mixta para el Estudio de los Prob
+ lemas de las Adicciones
+LOCATION:Palacio del Senado
+DESCRIPTION:Mesa y Portavoces de la Comisión Mixta para el Estudio de los 
+ Problemas de las Adicciones.\nSala: Palacio del Senado\nFuente: congreso.e
+ s
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:8bca7d545e49fd93c0db3e065c76d1de@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260609T074500Z
+DTEND:20260609T094500Z
+SUMMARY:Mesa y Portavoces de la Comisión Mixta para las Relaciones con el 
+ Tribunal de Cuentas
 LOCATION:Sala Constitucional
-DESCRIPTION:Acto de presentación del XIV Informe sobre el estado de la pob
- reza en España \, a solicitud de Red Europea de Lucha contra la Pobreza y
-  la Exclusión social en el Estado Español (EAPN-ES). Ver directo . Torre
- spaña 1.\nSala: Sala Constitucional\nFuente: congreso.es
+DESCRIPTION:Mesa y Portavoces de la Comisión Mixta para las Relaciones con
+  el Tribunal de Cuentas.\nSala: Sala Constitucional\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:c533c7705c3f788ee57f81529e2fab14@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260604T070000Z
-DTEND:20260604T190000Z
+UID:d61d0907d0119f6450b6cc71a939bf4f@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260609T080000Z
+DTEND:20260609T100000Z
+SUMMARY:Comisión Mixta de Seguridad Nacional
+LOCATION:Sala Prim
+DESCRIPTION:Comisión Mixta de Seguridad Nacional . Comparecencias: Preside
+ nta de la Sociedad Estatal de Participaciones Industriales (SEPI). Directo
+ r de la de la Oficina de Asuntos Económicos y G20 . Nota de prensa . Ver 
+ directo . YouTube . Torrespaña 1.\nSala: Sala Prim\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:5fb271ee700ddcac9852ba6e34740a25@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260609T080000Z
+DTEND:20260609T100000Z
+SUMMARY:Comisión Mixta para las Relaciones con el Tribunal de Cuentas
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión Mixta para las Relaciones con el Tribunal de Cuentas 
+ . Debate y votación de propuestas de resolución. Comparecencia de la pre
+ sidenta del Tribunal de Cuentas . Nota de prensa . Ver directo . YouTube. 
+ Torrespaña 2.\nSala: Sala Constitucional\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:d74aaf3087a13753eda75ff743ced8db@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260609T080000Z
+DTEND:20260609T100000Z
+SUMMARY:Comisión Mixta para el Estudio de los Problemas de las Adicciones
+LOCATION:Palacio del Senado
+DESCRIPTION:Comisión Mixta para el Estudio de los Problemas de las Adiccio
+ nes . Contestación a preguntas.\nSala: Palacio del Senado\nFuente: congre
+ so.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:319f01520ea356b24f8f9be420387a78@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260609T090000Z
+DTEND:20260609T110000Z
 SUMMARY:Subcomisión encargada de redactar la propuesta de mandato-marco a 
  la Corporación RTVE previsto en el artículo 4 de la Le
-LOCATION:Sala Argüelles
+LOCATION:Sala Peces-Barba
 DESCRIPTION:Subcomisión encargada de redactar la propuesta de mandato-marc
  o a la Corporación RTVE previsto en el artículo 4 de la Ley 17/2006\, de
   5 de junio\, de la radio y la televisión de titularidad estatal . Redacc
  ión de la propuesta de mandato-marco a la Corporación RTVE.\nSala: Sala 
- Argüelles\nFuente: congreso.es
+ Peces-Barba\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:4e49b8ccf9804fd67ab95fd022f53192@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260604T083000Z
-DTEND:20260604T103000Z
-SUMMARY:Comisión Mixta de Control Parlamentario de la Corporación RTVE y 
- sus Sociedades
+UID:e23408c19529bebe31c08692961423da@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260609T100000Z
+DTEND:20260609T120000Z
+SUMMARY:Presentación de la iniciativa EsMujer
+LOCATION:Sala Ernest Lluch
+DESCRIPTION:Presentación de la iniciativa EsMujer. Estrategia de Salud de 
+ la Mujer en España. Abordaje integral de la salud de la mujer durante tod
+ a su vida \, a solicitud de la Asociacion Española para el Estudio de la 
+ Menopausia (AEEM). Ver directo. Torrespaña 3 .\nSala: Sala Ernest Lluch\n
+ Fuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:2b967bd5d9d148aec0635e30f73a4152@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T063000Z
+DTEND:20260610T083000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Interior
+LOCATION:Escritorio del Reloj (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión de Interior.\nSala: Escritori
+ o del Reloj (Palacio)\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:33ab340fe6113caa844a3d0129a3b472@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T064000Z
+DTEND:20260610T084000Z
+SUMMARY:Mesa y Portavoces de la Comisión Mixta para la Coordinación y Seg
+ uimiento de la Estrategia Española para alcanzar los Ob
+LOCATION:Escritorio de la Constitución (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión Mixta para la Coordinación y
+  Seguimiento de la Estrategia Española para alcanzar los Objetivos de Des
+ arrollo Sostenible (ODS).\nSala: Escritorio de la Constitución (Palacio)\
+ nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:6062dd6dd7106f3a4acd8b6418b1d6f3@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T070000Z
+DTEND:20260610T090000Z
+SUMMARY:Sesión Plenaria
+LOCATION:Hemiciclo
+DESCRIPTION:Sesión Plenaria . Preguntas. Interpelaciones urgentes. Proposi
+ ciones no de Ley. Mociones consecuencia de interpelaciones urgentes. Nota 
+ de prensa . Ver directo . YouTube original . YouTube traducción y subtitu
+ lado . Torrespaña 1 y 2 original y traducción. Torrespaña 3 Pasillo. To
+ rrespaña 4 Escritorio.\nSala: Hemiciclo\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:a6822987d40709baccd0c301b526fee7@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T070000Z
+DTEND:20260610T190000Z
+SUMMARY:Comisión para las Políticas Integrales de la Discapacidad
 LOCATION:Sala Prim
-DESCRIPTION:Comisión Mixta de Control Parlamentario de la Corporación RTV
- E y sus Sociedades . Comparecencia del presidente del Consejo de Administr
- ación de la Corporación RTVE . Nota de prensa . Ver directo . YouTube . 
- Torrespaña 3 .\nSala: Sala Prim\nFuente: congreso.es
+DESCRIPTION:Comisión para las Políticas Integrales de la Discapacidad . D
+ ebate y votación de proposiciones no de ley. Nota de prensa . Ver directo
+  . YouTube . Torrespaña 4.\nSala: Sala Prim\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:321f506311f738e5fb8028ae3624de9b@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260604T090000Z
-DTEND:20260604T110000Z
-SUMMARY:Comisión de Hacienda y Función Pública
-LOCATION:Sala Constitucional
-DESCRIPTION:Comisión de Hacienda y Función Pública . Comparecencia del m
- inistro de Hacienda \, a petición propia\, para informar sobre las línea
- s generales de la política de su Departamento. Nota de prensa . Ver direc
- to . YouTube . Torrespaña 1.\nSala: Sala Constitucional\nFuente: congreso
+UID:bb28f6ab39a17ae1e18f7f444a6260b8@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T070000Z
+DTEND:20260610T190000Z
+SUMMARY:Comisión de Trabajo\, Economía Social\, Inclusión\, Seguridad So
+ cial y Migraciones
+LOCATION:Sala Sagasta
+DESCRIPTION:Comisión de Trabajo\, Economía Social\, Inclusión\, Segurida
+ d Social y Migraciones . Debate y votación de proposiciones no de ley. Ve
+ r directo . YouTube . Torrespaña 2.\nSala: Sala Sagasta\nFuente: congreso
  .es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:11ed8b51f2d3fe6f9bac8ba33934d655@congreso.es
-DTSTAMP:20260531T173448Z
-DTSTART:20260604T140000Z
-DTEND:20260604T160000Z
-SUMMARY:Jornadas Preservación del suelo agrícola frente a la proliferaci
- ón de macro plantas fotovoltaicas \, a solicitud del Grup
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Jornadas Preservación del suelo agrícola frente a la prolifer
- ación de macro plantas fotovoltaicas \, a solicitud del Grupo Parlamentar
- io Plurinacional SUMAR. Ver directo. Torrespaña 2.\nSala: Sala Ernest Llu
- ch\nFuente: congreso.es
+UID:d1b571e8b8ebb210e5d5a49fa12045cf@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T070000Z
+DTEND:20260610T190000Z
+SUMMARY:Comisión de Asuntos Exteriores
+LOCATION:Sala Cánovas
+DESCRIPTION:Comisión de Asuntos Exteriores . Dictámenes. Debate y votaci
+ ón de proposiciones no de ley. Ver directo . YouTube . Torrespaña 3.\nSa
+ la: Sala Cánovas\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:93f1d4847cd5250687b39a52ab5b7b66@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T070000Z
+DTEND:20260610T190000Z
+SUMMARY:Mesa de la Comisión de Investigación sobre la gestión de la cris
+ is derivada de la DANA que tuvo lugar el 29 de octubre d
+LOCATION:Sala Argüelles
+DESCRIPTION:Mesa de la Comisión de Investigación sobre la gestión de la 
+ crisis derivada de la DANA que tuvo lugar el 29 de octubre de 2024\, así 
+ como para el estudio y propuesta de medidas de mejora destinadas a paliar 
+ los efectos de estos fenómenos adversos en el futuro.\nSala: Sala Argüel
+ les\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:0da1b24fa98ffdb5002578b586e46db6@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T070000Z
+DTEND:20260610T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Vivienda y Agenda Urbana
+LOCATION:Sala Gabriel Cisneros
+DESCRIPTION:Mesa y Portavoces de la Comisión de Vivienda y Agenda Urbana.\
+ nSala: Sala Gabriel Cisneros\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:f45676b2493cacb46f2d85642e221667@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T070000Z
+DTEND:20260610T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Economía\, Comercio y Transfo
+ rmación Digital
+LOCATION:Sala Lázaro Dou
+DESCRIPTION:Mesa y Portavoces de la Comisión de Economía\, Comercio y Tra
+ nsformación Digital.\nSala: Sala Lázaro Dou\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:dfae34950cc0a3e759add7c6d91d0d0a@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T070000Z
+DTEND:20260610T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Seguridad Vial
+LOCATION:Sala Peces-Barba
+DESCRIPTION:Mesa y Portavoces de la Comisión de Seguridad Vial.\nSala: Sal
+ a Peces-Barba\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:a425b1a0984047a37cc3b92b4e1c5dea@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260610T150000Z
+DTEND:20260610T170000Z
+SUMMARY:Comisión de Cooperación Internacional para el Desarrollo
+LOCATION:Sala Pérez-Llorca
+DESCRIPTION:Comisión de Cooperación Internacional para el Desarrollo . Co
+ mparecencias: Francisco José Pérez Esteban \, delegado en Madrid de la F
+ undación Campaner y Marta Ribes Agost \, investigadora y colaboradora en 
+ la Fundación Campaner. 18:00 h. Francisco Moreno \, fundador y CEO de la 
+ Fundación ADS (Acción\, Desarrollo y Sostenibilidad). Nota de prensa . V
+ er directo . YouTube . Torrespaña 1.\nSala: Sala Pérez-Llorca\nFuente: c
+ ongreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:aef441abfd4d3b9924f3aeacedad37d4@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260611T064500Z
+DTEND:20260611T084500Z
+SUMMARY:Mesa y Portavoces de la Comisión de Transportes y Movilidad Sosten
+ ible
+LOCATION:Escritorio del Reloj (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión de Transportes y Movilidad So
+ stenible.\nSala: Escritorio del Reloj (Palacio)\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:fc5cfc80ed026cb1309848e2121310a8@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260611T070000Z
+DTEND:20260611T090000Z
+SUMMARY:Sesión Plenaria
+LOCATION:Hemiciclo
+DESCRIPTION:Sesión Plenaria . Dictámenes de Comisiones sobre iniciativas 
+ legislativas. Toma en consideración de Proposición de reforma del Reglam
+ ento del Congreso. Toma en consideración de Proposiciones de Ley de Comun
+ idades y Ciudades Autónomas. Nota de prensa . Ver directo . YouTube origi
+ nal . YouTube traducción y subtitulado . Torrespaña 1 y 2 original y tra
+ ducción. Torrespaña 3 Pasillo. Torrespaña 4 Escritorio.\nSala: Hemicicl
+ o\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:489fbaa87cf527e7898f832a0d356e21@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260611T070000Z
+DTEND:20260611T190000Z
+SUMMARY:Comisión de Juventud e Infancia
+LOCATION:Sala Sagasta
+DESCRIPTION:Comisión de Juventud e Infancia . Solicitud de prórroga de lo
+ s trabajos de la Subcomisión sobre el estudio de un Pacto de Estado para 
+ la erradicación de la Pobreza Infantil. Nota de prensa . Ver directo . Yo
+ uTube . Torrespaña 1.\nSala: Sala Sagasta\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6e8334659323d0e00e05a8ee71287c@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260611T070000Z
+DTEND:20260611T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión de seguimiento y evaluación de l
+ os acuerdos del Pacto de Toledo
+LOCATION:Escritorio del Reloj (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión de seguimiento y evaluación 
+ de los acuerdos del Pacto de Toledo.\nSala: Escritorio del Reloj (Palacio)
+ \nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:b3c544808cbb6e5f733bafe4003b0172@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260611T070000Z
+DTEND:20260611T190000Z
+SUMMARY:Subcomisión sobre el estudio de un Pacto de Estado para la erradic
+ ación de la Pobreza Infantil
+LOCATION:Sala Argüelles
+DESCRIPTION:Subcomisión sobre el estudio de un Pacto de Estado para la err
+ adicación de la Pobreza Infantil . Elaboración del Informe.\nSala: Sala 
+ Argüelles\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:ac05328071c723325a2e38c7f8d4c126@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260611T140000Z
+DTEND:20260611T160000Z
+SUMMARY:Comisión Mixta para la Unión Europea
+LOCATION:Sala Prim
+DESCRIPTION:Comisión Mixta para la Unión Europea . Contestación a pregun
+ tas. Debate y votación de proposiciones no de ley. Nota de prensa . Ver d
+ irecto . YouTube . Torrespaña 2.\nSala: Sala Prim\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:92f36ad2c0e6a3b0ec0c458a86b6a75f@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260612T073000Z
+DTEND:20260612T093000Z
+SUMMARY:Jornada de Puertas Abiertas
+LOCATION:Palacio
+DESCRIPTION:Jornada de Puertas Abiertas. Nota de prensa . Ver directo . You
+ Tube . Torrespaña 1 .\nSala: Palacio\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:87c23a9b673ca327481b8b6bc606dad2@congreso.es
+DTSTAMP:20260607T174444Z
+DTSTART:20260613T073000Z
+DTEND:20260613T093000Z
+SUMMARY:Jornada de Puertas Abiertas
+LOCATION:Palacio
+DESCRIPTION:Jornada de Puertas Abiertas. Nota de prensa . Ver directo . You
+ Tube . Torrespaña 1 .\nSala: Palacio\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
