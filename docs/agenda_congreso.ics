@@ -6,186 +6,86 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:440b918fb5cf222de6f63e0d2530e10c@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260622T090000Z
-DTEND:20260622T110000Z
-SUMMARY:y 15:30 h
-LOCATION:Sala Prim
-DESCRIPTION:y 15:30 h . Comisión de Investigación sobre la gestión de la
-  crisis derivada de la DANA que tuvo lugar el 29 de octubre de 2024\, así
-  como para el estudio y propuesta de medidas de mejora destinadas a paliar
-  los efectos de estos fenómenos adversos en el futuro . Comparecencias: P
- ilar Bernabé García \, delegada del Gobierno en la Comunidad Valenciana.
-  15:30 h. Alberto Javier Martín Moratilla \, ex director general de Emerg
- encias y Extinción de Incendios\, Conselleria de Emergencias e Interior d
- e la Generalitat Valenciana. Nota de prensa . Ver directo . YouTube . Torr
- españa 1.\nSala: Sala Prim\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:70bd1249fc79c56cc22f4711619b0e5d@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260622T090000Z
-DTEND:20260622T110000Z
-SUMMARY:Visita a la Mesa y Portavoces de la Comisión de Economía\, Comerc
- io y Transformación Digital de una delegación de la Gran
-LOCATION:Sala Lázaro Dou
-DESCRIPTION:Visita a la Mesa y Portavoces de la Comisión de Economía\, Co
- mercio y Transformación Digital de una delegación de la Gran Asamblea Na
- cional de Turquía.\nSala: Sala Lázaro Dou\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:16d8756949667b9edc64224d42441413@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260622T093000Z
-DTEND:20260622T113000Z
-SUMMARY:Visita a la Mesa y Portavoces de la Comisión de Defensa de una del
- egación de Congresistas estadounidenses
-LOCATION:Sala Mariana Pineda
-DESCRIPTION:Visita a la Mesa y Portavoces de la Comisión de Defensa de una
-  delegación de Congresistas estadounidenses.\nSala: Sala Mariana Pineda\n
- Fuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:fdb9534e517dd61743b7d3c52dd1cf6a@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260622T093000Z
-DTEND:20260622T113000Z
-SUMMARY:Presentación del informe Piscinas y Salud en España
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Presentación del informe Piscinas y Salud en España. Radiogra
- fía de una infraestructura de salud esencial \, a solicitud de la Asociac
- ión Española de Profesionales del Sector de la Piscinas (ASOFAP). Ver di
- recto . Torrespaña 2.\nSala: Sala Ernest Lluch\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:988ec295c2c356122b788d98ee193b94@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260622T143000Z
-DTEND:20260622T163000Z
-SUMMARY:Presentación del libro Hacia un estatuto de los derechos digitales
-  en el trabajo \, a solicitud de María Luz Rodríguez Fe
-LOCATION:Sala Pérez-Llorca
-DESCRIPTION:Presentación del libro Hacia un estatuto de los derechos digit
- ales en el trabajo \, a solicitud de María Luz Rodríguez Fernández\, ca
- tedrática de Derecho del Trabajo y de la Seguridad Social de la Universid
- ad de Castilla-La Mancha (UCLM). Torrespaña 3.\nSala: Sala Pérez-Llorca\
- nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cb3942b54caf281dfc1d232f698dd2f8@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260622T150000Z
-DTEND:20260622T170000Z
-SUMMARY:Jornada parlamentaria: 20 años después: reforma del Estatuto del 
- Trabajo Autónomo \, a solicitud del Grupo Parlamentario 
-LOCATION:Sala Constitucional
-DESCRIPTION:Jornada parlamentaria: 20 años después: reforma del Estatuto 
- del Trabajo Autónomo \, a solicitud del Grupo Parlamentario Republicano\,
-  junto con la Unión de Profesionales y Trabajadores Autónomos (UPTA). Ve
- r directo . Torrespaña 4.\nSala: Sala Constitucional\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:512ad471defa81b5e6fe2bb7823b7e38@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260622T160000Z
-DTEND:20260622T180000Z
-SUMMARY:Coloquio La situación internacional y cómo construir una alianza 
- global frente a Trump \, a solicitud del Grupo Parlament
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Coloquio La situación internacional y cómo construir una alia
- nza global frente a Trump \, a solicitud del Grupo Parlamentario Plurinaci
- onal SUMAR. Ver directo . Torrespaña 2.\nSala: Sala Ernest Lluch\nFuente:
-  congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:4c9280ba61b93bf1a7fda37ea837e53f@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T070000Z
-DTEND:20260623T190000Z
-SUMMARY:Mesa y Portavoces de la Comisión Mixta para la Unión Europea
-LOCATION:Sala Pérez-Llorca
-DESCRIPTION:Mesa y Portavoces de la Comisión Mixta para la Unión Europea.
- \nSala: Sala Pérez-Llorca\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:9bd44fb1c6be38493e38dfb1169363ab@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T074500Z
-DTEND:20260623T094500Z
-SUMMARY:Mesa y Portavoces de la Comisión Mixta para las Relaciones con el 
- Tribunal de Cuentas
-LOCATION:Sala Prim
-DESCRIPTION:Mesa y Portavoces de la Comisión Mixta para las Relaciones con
-  el Tribunal de Cuentas.\nSala: Sala Prim\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:78108929746349e8955c235091b6050f@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T080000Z
-DTEND:20260623T100000Z
-SUMMARY:Mesa del Congreso
-LOCATION:Salón de Ministros
-DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
+UID:2b0c2f130269f3ec0b72b3eecdb54762@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260629T090000Z
+DTEND:20260629T110000Z
+SUMMARY:Jornada Más allá de la enfermedad: impacto humano\, social y econ
+ ómico de los trastornos lisosomales \, a solicitud de la 
+LOCATION:Sala Cánovas
+DESCRIPTION:Jornada Más allá de la enfermedad: impacto humano\, social y 
+ económico de los trastornos lisosomales \, a solicitud de la Asociación 
+ de la Mucopolisacaridosis y Síndromes Relacionados 8MPS-Lisosomales Espa
+ ña). Ver directo . Torrespaña 2 .\nSala: Sala Cánovas\nFuente: congreso
  .es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:1c4c925323dc785c1e1378d37d1ffacf@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T080000Z
-DTEND:20260623T100000Z
-SUMMARY:Comisión Mixta para las Relaciones con el Tribunal de Cuentas
-LOCATION:Sala Prim
-DESCRIPTION:Comisión Mixta para las Relaciones con el Tribunal de Cuentas 
- . Emisión de dictamen a la vista del criterio emitido por la ponencia y\,
-  en su caso\, debate y votación de las propuestas de resolución presenta
- das sobre la Declaración sobre la Cuenta General del Estado del ejercicio
-  2024. Comparecencia de la presidenta del Tribunal de Cuentas . Nota de pr
- ensa . Ver directo . YouTube . Torrespaña 1.\nSala: Sala Prim\nFuente: co
- ngreso.es
+UID:6c82095c36d33961667ca5fc9a599af5@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260629T100000Z
+DTEND:20260629T120000Z
+SUMMARY:Presentación del libro Manual práctico de Extranjería 2026: Norm
+ as\, cambios y oportunidades \, a solicitud del Grupo Parl
+LOCATION:Sala Constitucional
+DESCRIPTION:Presentación del libro Manual práctico de Extranjería 2026: 
+ Normas\, cambios y oportunidades \, a solicitud del Grupo Parlamentario Pl
+ urinacional SUMAR. Ver directo . Torrespaña 1 .\nSala: Sala Constituciona
+ l\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:a08a62b79927f169e7af35728044e9b3@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T080000Z
-DTEND:20260623T100000Z
-SUMMARY:Comisión de Economía\, Comercio y Transformación Digital
-LOCATION:Sala Cánovas
-DESCRIPTION:Comisión de Economía\, Comercio y Transformación Digital . C
- omparecencia del gobernador del Banco de España . Nota de prensa . Ver di
- recto . YouTube . Torrespaña 2 .\nSala: Sala Cánovas\nFuente: congreso.e
- s
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:3f9e4f5fd71cdf1be089168581c284b5@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T083000Z
-DTEND:20260623T103000Z
-SUMMARY:Visita a la Mesa y Portavoces de la Comisión Mixta para la UE del 
- presidente de la Comisión de Asuntos Exteriores del Pa
+UID:271de69991fc4e7adf56ed4152896205@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260629T140000Z
+DTEND:20260629T160000Z
+SUMMARY:Ponencia para el análisis en el marco de la política de Seguridad
+  Nacional del proceso de regularización extraordinaria 
 LOCATION:Sala Lázaro Dou
-DESCRIPTION:Visita a la Mesa y Portavoces de la Comisión Mixta para la UE 
- del presidente de la Comisión de Asuntos Exteriores del Parlamento de Alb
- ania\, Igli Hasani.\nSala: Sala Lázaro Dou\nFuente: congreso.es
+DESCRIPTION:Ponencia para el análisis en el marco de la política de Segur
+ idad Nacional del proceso de regularización extraordinaria de personas ex
+ tranjeras iniciado por el Gobierno . Comparecencias: 16:00 h. Raymond Torr
+ es \, director de Coyuntura Económica de la Fundación de las Cajas de Ah
+ orros (FUNCAS). 17:00 h. Francisco Javier de Lucas Martín \, catedrático
+  de Filosofía del Derecho y especialista en Derechos Humanos\, Ciudadaní
+ a y Extranjería. Esta reunión es a puerta cerrada.\nSala: Sala Lázaro D
+ ou\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:1e4c84ccaaa84b60f172fb994230ad0b@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T090000Z
-DTEND:20260623T110000Z
+UID:0397b507f4f887895675d218f02fb050@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260629T150000Z
+DTEND:20260629T170000Z
+SUMMARY:Proyección del cortometraje Disonancia \, a solicitud del Grupo Pa
+ rlamentario Plurinacional SUMAR Ver directo
+LOCATION:Sala Constitucional
+DESCRIPTION:Proyección del cortometraje Disonancia \, a solicitud del Grup
+ o Parlamentario Plurinacional SUMAR Ver directo . Torrespaña 3 .\nSala: S
+ ala Constitucional\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:d05925b8bd0bc1070d315fad6eaaf831@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260630T090000Z
+DTEND:20260630T110000Z
+SUMMARY:Comisión de Vivienda y Agenda Urbana
+LOCATION:Sala Cánovas
+DESCRIPTION:Comisión de Vivienda y Agenda Urbana . Comparecencias: 11:00 h
+ . Julián Salcedo Gómez \, presidente del Foro de Economistas Inmobiliari
+ os del Colegio de Economistas de Madrid. 12:00 h. Sergio Nasarre Aznar \, 
+ catedrático de Derecho Civil. Fundador de la Cátedra UNESCO de Vivienda.
+  Universidad Rovira i Virgili. 13:00 h. Xabier Txurruka Fernández \, alca
+ lde del Ayuntamiento de Zarautz. Nota de prensa . Ver directo . YouTube . 
+ Torrespaña 1 .\nSala: Sala Cánovas\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:31a520db9a56823693656b244f4a9e71@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260630T093000Z
+DTEND:20260630T113000Z
 SUMMARY:Subcomisión encargada de redactar la propuesta de mandato-marco a 
  la Corporación RTVE previsto en el artículo 4 de la Le
 LOCATION:Palacio del Senado
@@ -197,380 +97,130 @@ DESCRIPTION:Subcomisión encargada de redactar la propuesta de mandato-marc
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:05bedc62cf254aa1dd55b4fd401e869c@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T090000Z
-DTEND:20260623T110000Z
-SUMMARY:Comisión de Investigación de la interrupción del suministro elé
- ctrico el 28 de abril de 2025
-LOCATION:Sala Sagasta
-DESCRIPTION:Comisión de Investigación de la interrupción del suministro 
- eléctrico el 28 de abril de 2025 . Comparecencia de Marina Serrano Gonzá
- lez \, presidenta de la Asociación de Empresas de Energía Eléctrica (AE
- LEC). Ver directo . YouTube . Torrespaña 3.\nSala: Sala Sagasta\nFuente: 
- congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:d9f45bf99bcf7a8a6646eece4ff6e67c@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T090000Z
-DTEND:20260623T110000Z
-SUMMARY:Comisión sobre Seguridad Vial
-LOCATION:Sala Fraga Iribarne
-DESCRIPTION:Comisión sobre Seguridad Vial . Comparecencias: 11:00 h. Enriq
- ue Lorca Sánchez \, presidente de Alianza por la Seguridad Vial (ASV). 12
- :00 h. Belén Calahorro Lizondo \, responsable de la Oficina técnica y co
- ordinadora EuroVelo en España de la Asociación Coordinadora en Defensa d
- e la Bicicleta. 13:00 h. Miguel Ángel Garrido Díez \, director de SEVIMA
-  (Seguridad Vial de Mascotas). Nota de prensa . Ver directo . YouTube .\nS
- ala: Sala Fraga Iribarne\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:a8317fd9caa56596432cf116b274ea71@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T093000Z
-DTEND:20260623T113000Z
-SUMMARY:Comisión de Cultura
-LOCATION:Sala Constitucional
-DESCRIPTION:Comisión de Cultura . Comparecencia del ministro de Cultura \,
-  a petición propia\, para informar de los avances y retos del Ministerio 
- de Cultura. Nota de prensa . Ver directo . YouTube . Torrespaña 4.\nSala:
-  Sala Constitucional\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:3f883a4276de6f3a8ca78cdf34fb44df@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T100000Z
-DTEND:20260623T120000Z
-SUMMARY:Junta de Portavoces
-LOCATION:Sala Mariana Pineda
-DESCRIPTION:Junta de Portavoces\nSala: Sala Mariana Pineda\nFuente: congres
- o.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:3785ef2bdff3f0ba51bc48ad8fa3fcb3@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T100000Z
-DTEND:20260623T120000Z
-SUMMARY:Comisión Mixta para la Unión Europea
-LOCATION:Sala Pérez-Llorca
-DESCRIPTION:Comisión Mixta para la Unión Europea . Contestación a pregun
- tas. Ver directo . YouTube .\nSala: Sala Pérez-Llorca\nFuente: congreso.e
- s
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:02e83cdcab562f90d1c98bd29faffde9@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T103000Z
-DTEND:20260623T123000Z
-SUMMARY:Ponencia de la Comisión de Trabajo\, Economía Social\, Inclusión
- \, Seguridad Social y Migraciones sobre la Proposición de L
-LOCATION:Sala Peces-Barba
-DESCRIPTION:Ponencia de la Comisión de Trabajo\, Economía Social\, Inclus
- ión\, Seguridad Social y Migraciones sobre la Proposición de Ley para el
-  impulso de la inclusión laboral de las personas con discapacidad a trav
- és de la cuota de reserva de empleo en las empresas.\nSala: Sala Peces-Ba
- rba\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:ec58106132d8a051c932dd47c0db6405@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260623T130000Z
-DTEND:20260623T150000Z
-SUMMARY:Sesión Plenaria
-LOCATION:Hemiciclo
-DESCRIPTION:Sesión Plenaria. Toma en consideración de proposición de ref
- orma del Reglamento del Congreso. Toma en consideración de proposiciones 
- de ley. Proposiciones no de ley. Mociones consecuencia de interpelaciones 
- urgentes. Nota de prensa . Ver direct o . YouTube original . YouTube tradu
- cción y subtitulado . Torrespaña 1 y 2 original y traducción. Torrespa
- ña 3 Pasillo. Torrespaña 4 Escritorio.\nSala: Hemiciclo\nFuente: congres
- o.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:299f29820e35212eddd974d865aa7761@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260624T070000Z
-DTEND:20260624T090000Z
-SUMMARY:Sesión Plenaria
-LOCATION:Hemiciclo
-DESCRIPTION:Sesión Plenaria. Comparecencia del presidente del Gobierno par
- a informar sobre la situación política relacionada con las últimas inve
- stigaciones judiciales conocidas\, así como de la última reunión del Co
- nsejo Europeo\, entre otros asuntos. Preguntas. Interpelaciones urgentes. 
- Nota de prensa . Ver directo . Ver directo lengua de signos . YouTube orig
- inal . YouTube traducción y subtitulado . Torrespaña 1 original y traduc
- ción. Torrespaña 2 lengua de signos. Torrespaña 3 Pasillo. Torrespaña 
- 4 Escritorio.\nSala: Hemiciclo\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:2553cfa7d2b5bbb0a3f1ed581f1b3020@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260624T070000Z
-DTEND:20260624T190000Z
-SUMMARY:Ponecia de la Comisión de Justicia sobre el Proyecto de Ley Orgán
- ica para la protección de las personas menores de edad 
-LOCATION:Sala Peces-Barba
-DESCRIPTION:Ponecia de la Comisión de Justicia sobre el Proyecto de Ley Or
- gánica para la protección de las personas menores de edad en los entorno
- s digitales.\nSala: Sala Peces-Barba\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:ced279fc96b73d1000cdb8b797fc9578@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260624T070000Z
-DTEND:20260624T190000Z
-SUMMARY:Ponencia de la Comisión de Hacienda y Función Pública sobre el P
- royecto de de Ley por la que se modifican\, en materia de
-LOCATION:Sala Argüelles
-DESCRIPTION:Ponencia de la Comisión de Hacienda y Función Pública sobre 
- el Proyecto de de Ley por la que se modifican\, en materia de prescripció
- n\, recaudación\, asistencia mutua y obligaciones de información\, del i
- mpuesto sobre la renta de las personas físicas y de modificación parcial
-  de las leyes de los impuestos sobre sociedades\, la ley sobre la renta de
-  no residentes y sobre el patrimonio\, y la ley del impuesto sobre sucesio
- nes y donaciones.\nSala: Sala Argüelles\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:a3553b3fac24a26d4bdd48153bdebef0@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260624T070000Z
-DTEND:20260624T190000Z
-SUMMARY:Comisión de Reglamento
+UID:843e9bbc657533ca15342aa27ceeef62@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260630T093000Z
+DTEND:20260630T113000Z
+SUMMARY:Comisión Mixta de Relaciones con el Defensor del Pueblo
 LOCATION:Sala Prim
-DESCRIPTION:Comisión de Reglamento . Emisión de dictamen a la vista del i
- nforme elaborado por la Ponencia sobre la Proposición de reforma del Regl
- amento del Congreso para incorporar un nuevo Título XIV para la regulaci
- ón de los grupos de interés y los incumplimientos o infracciones por par
- te de los diputados y grupos parlamentarios. Nota de prensa . Ver directo 
- . YouTube . Torrespaña 1 .\nSala: Sala Prim\nFuente: congreso.es
+DESCRIPTION:Comisión Mixta de Relaciones con el Defensor del Pueblo . Deba
+ te y votación de proposición no de ley. Comparecencia del Defensor del P
+ ueblo . Nota de prensa . Ver directo . YouTube . Torrespaña 2.\nSala: Sal
+ a Prim\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:a81ae6c4ce9c56f8c08730e9c22afe88@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260624T070000Z
-DTEND:20260624T190000Z
-SUMMARY:Subcomisión sobre el estudio de un Pacto de Estado para la erradic
- ación de la Pobreza Infantil
-LOCATION:Sala Gabriel Cisneros
-DESCRIPTION:Subcomisión sobre el estudio de un Pacto de Estado para la err
- adicación de la Pobreza Infantil . Elaboración del informe. Esta sesión
-  es a puerta cerrrada.\nSala: Sala Gabriel Cisneros\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:708a8718fdb39c0ea913ce4c38f9f06b@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260624T140000Z
-DTEND:20260624T160000Z
+UID:97e423746b8d3f3ba7b28f2d54084ea4@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260630T093000Z
+DTEND:20260630T113000Z
 SUMMARY:Comisión de Agricultura\, Pesca y Alimentación
-LOCATION:Sala Cánovas
+LOCATION:Sala Constitucional
 DESCRIPTION:Comisión de Agricultura\, Pesca y Alimentación . Comparecenci
  a del ministro de Agricultura\, Pesca y Alimentación \, a petición propi
- a\, para informar sobre Tercer año de la PAC 2023-2027: consolidando una 
- agricultura más sostenible\, rentable y orientada al futuro. Nota de pren
- sa . Ver directo . YouTube . Torrespaña 2 .\nSala: Sala Cánovas\nFuente:
-  congreso.es
+ a\, para informar sobre "Tercer año de la PAC 2023-2024: consolidando una
+  agricultura más sostenible\, rentable y orientada al futuro". Nota de pr
+ ensa . Ver directo . YouTube . Torrespaña 3 .\nSala: Sala Constitucional\
+ nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:282a554f4110e333d302e3407afc5c71@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260624T160000Z
-DTEND:20260624T180000Z
-SUMMARY:Comisión de Educación\, Formación Profesional y Deportes
+UID:052b2802b43a12cecd61cd7687abefb3@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260630T100000Z
+DTEND:20260630T120000Z
+SUMMARY:Mesa del Congreso
+LOCATION:Salón de Ministros
+DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
+ .es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:84d8cc5bd9ca82bb39adf461c9054775@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260630T100000Z
+DTEND:20260630T120000Z
+SUMMARY:Comisión Mixta para la Unión Europea
 LOCATION:Sala Ernest Lluch
-DESCRIPTION:Comisión de Educación\, Formación Profesional y Deportes . C
- omparecencia del director general de la Agencia Estatal Comisión Español
- a para la Lucha Antidopaje en el Deporte (CELAD) . Nota de prensa . Ver di
- recto . YouTube . Torrespaña 3 .\nSala: Sala Ernest Lluch\nFuente: congre
- so.es
+DESCRIPTION:Comisión Mixta para la Unión Europea . Comparecencia de Alfon
+ so Rueda Valenzuela \, expresidente de la delegación española en el Comi
+ té Europeo de las Regiones. Nota de prensa . Ver directo . YouTube . Torr
+ españa 4 .\nSala: Sala Ernest Lluch\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:9bf2be2e2c438a0067e7d858a0e928d3@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260624T160000Z
-DTEND:20260624T180000Z
-SUMMARY:Conmemoración del Día Internacional del Orgullo LGTBI
-LOCATION:Sala Constitucional
-DESCRIPTION:Conmemoración del Día Internacional del Orgullo LGTBI. Nota d
- e prensa . Ver direct o . YouTube. Torrespaña 4.\nSala: Sala Constitucion
- al\nFuente: congreso.es
+UID:a3e0b1af42eebdbdef86c7d5ba51a089@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260630T140000Z
+DTEND:20260630T160000Z
+SUMMARY:Ponencia de la Comisión de Justicia sobre la Proposición de Ley s
+ obre concesión de nacionalidad española a las y los sah
+LOCATION:Sala Lázaro Dou
+DESCRIPTION:Ponencia de la Comisión de Justicia sobre la Proposición de L
+ ey sobre concesión de nacionalidad española a las y los saharauis nacido
+ s bajo la administración española.\nSala: Sala Lázaro Dou\nFuente: cong
+ reso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:f2b3727ce5ea5ac3fb692ff7a52d91df@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260625T070000Z
-DTEND:20260625T090000Z
-SUMMARY:Sesión Plenaria
-LOCATION:Hemiciclo
-DESCRIPTION:Sesión Plenaria. Dictámenes de comisión sobre iniciativas le
- gislativas. Debates de totalidad de iniciativas de reforma del Reglamento 
- del Congreso. Convalidación o derogación de reales decretos-leyes. Solic
- itud de prórroga de subcomisión. Nota de prensa . Ver directo . YouTube 
- original . YouTube traducción y subtitulado . Torrespaña 1 y 2 original 
- y traducción. Torrespaña 3 Pasillo. Torrespaña 4 Escritorio.\nSala: Hem
- iciclo\nFuente: congreso.es
+UID:c2a81b89777673d3c9605e3815ec3419@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260701T123000Z
+DTEND:20260701T143000Z
+SUMMARY:Ponencia de la Comisión de Derechos Sociales y Consumo sobre el Pr
+ oyecto de Ley por la que se modifican el Texto Refundi
+LOCATION:Sala Lázaro Dou
+DESCRIPTION:Ponencia de la Comisión de Derechos Sociales y Consumo sobre e
+ l Proyecto de Ley por la que se modifican el Texto Refundido de la Ley Gen
+ eral de derechos de las personas con discapacidad y de su inclusión socia
+ l\, aprobado por el Real Decreto Legislativo 1/2013\, y la Ley 39/2006\, d
+ e Promoción de la Autonomía Personal y Atención a las personas en situa
+ ción de dependencia\, para la extensión y refuerzo de los derechos de la
+ s personas con discapacidad a la inclusión\, la autonomía y la accesibil
+ idad universal conforme al artículo 49 de la Constitución Española. Ses
+ ión extraordinaria.\nSala: Sala Lázaro Dou\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:fde094521d7be714abf98124f764f80d@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260625T070000Z
-DTEND:20260625T190000Z
-SUMMARY:Comisión de Sanidad
+UID:2df6d540fe81df83d5164b59e16ef337@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260701T143000Z
+DTEND:20260701T163000Z
+SUMMARY:Curso de Verano La Democracia en Europa y América \, a solicitud d
+ e la Asociación de exdiputados y exsenadores de las Cor
 LOCATION:Sala Cánovas
-DESCRIPTION:Comisión de Sanidad . Aprobación con competencia legislativa 
- plena\, a la vista del informe elaborado por la ponencia\, de la Proposici
- ón de Ley sobre programa de cribado neonatal del Sistema Nacional de Salu
- d. Comparecencia del secretario de Estado de Sanidad . Nota de prensa . Ve
- r directo . YouTube . Torrespaña 3.\nSala: Sala Cánovas\nFuente: congres
- o.es
+DESCRIPTION:Curso de Verano La Democracia en Europa y América \, a solicit
+ ud de la Asociación de exdiputados y exsenadores de las Cortes Generales 
+ junto con el Centro Asociado a la UNED en Madrid. Torrespaña 1.\nSala: Sa
+ la Cánovas\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:a799dfef0ee5d5943355944b955bad48@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260625T070000Z
-DTEND:20260625T190000Z
-SUMMARY:Comisión de Asuntos Exteriores
-LOCATION:Sala Sagasta
-DESCRIPTION:Comisión de Asuntos Exteriores . Dictámenes. Contestación a 
- preguntas. Ver directo . YouTube . Torrespaña 2.\nSala: Sala Sagasta\nFue
- nte: congreso.es
+UID:20a1db8c5e4158e79bb03295ed78d14a@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260702T080000Z
+DTEND:20260702T100000Z
+SUMMARY:Curso de Verano La Democracia en Europa y América \, a solicitud d
+ e la Asociación de exdiputados y exsenadores de las Cor
+LOCATION:Sala Cánovas
+DESCRIPTION:Curso de Verano La Democracia en Europa y América \, a solicit
+ ud de la Asociación de exdiputados y exsenadores de las Cortes Generales 
+ junto con el Centro Asociado a la UNED en Madrid. Torrespaña 1.\nSala: Sa
+ la Cánovas\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:802a8f2d93dd0d4617bc17537faa8aee@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260625T100000Z
-DTEND:20260625T120000Z
-SUMMARY:Presentación de las memorias anuales del Tribunal Supremo y del CG
- PJ correspondientes al ejercicio 2024
-LOCATION:Salón de Pasos Perdidos (Palacio)
-DESCRIPTION:Presentación de las memorias anuales del Tribunal Supremo y de
- l CGPJ correspondientes al ejercicio 2024. Nota de prensa . Ver directo . 
- YouTube . Torrespaña 1.\nSala: Salón de Pasos Perdidos (Palacio)\nFuente
- : congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:b4bff212e5b6d94c256d9ff86ed6c9dd@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260625T140000Z
-DTEND:20260625T160000Z
-SUMMARY:Comisión de Vivienda y Agenda Urbana
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Comisión de Vivienda y Agenda Urbana . Comparecencias: 16:00 h
- . Conjunta de Gerardo Neistat Berman \, director del Observatorio del Alqu
- iler\, y de Sergio Cardona \, jefe de estudios del Observatorio del Alquil
- er. 17:00 h. Sara Hernández Barroso \, alcaldesa del Ayuntamiento de Geta
- fe. Nota de prensa . Ver directo . YouTube . Torrespaña 4 .\nSala: Sala E
- rnest Lluch\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:d6ddeaa9eb0b4ed14e069114ef9d509f@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260625T143000Z
-DTEND:20260625T163000Z
-SUMMARY:Comisión Mixta de Control Parlamentario de la Corporación RTVE y 
- sus Sociedades
-LOCATION:Palacio del Senado
-DESCRIPTION:Comisión Mixta de Control Parlamentario de la Corporación RTV
- E y sus Sociedades . Comparecencia periódica del presidente del Consejo d
- e Administración de la Corporación RTVE para la contestación de pregunt
- as.\nSala: Palacio del Senado\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:166cfa975b08c90df0db8a7ff0213ae9@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260625T143000Z
-DTEND:20260625T163000Z
-SUMMARY:Conversaciones C que organiza la Oficina de Ciencia y Tecnología d
- el Congreso
-LOCATION:Sala Constitucional
-DESCRIPTION:Conversaciones C que organiza la Oficina de Ciencia y Tecnolog
- ía del Congreso. Nota de prensa . Ver directo . YouTube . Torrespaña 1 .
- \nSala: Sala Constitucional\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:938b7286710c7013acf21d99356c3770@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260625T143000Z
-DTEND:20260625T163000Z
-SUMMARY:Comisión Mixta sobre Insularidad
-LOCATION:Palacio del Senado
-DESCRIPTION:Comisión Mixta sobre Insularidad . Comparecencia de Manuel Pav
- ón Madueño \, director general de Inmigración y Cooperación al Desarro
- llo del Gobierno de las llles Balears. Debate y votación de proposiciones
-  no de ley.\nSala: Palacio del Senado\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:ff6591f7be295ac87c3ab97564687371@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260626T080000Z
-DTEND:20260626T100000Z
-SUMMARY:Comisión Mixta de Seguridad Nacional
-LOCATION:Sala Prim
-DESCRIPTION:Comisión Mixta de Seguridad Nacional . Comparecencia del direc
- tor del Gabinete de la Presidencia del Gobierno . Nota de prensa . Ver dir
- ecto . YouTube . Torrespaña 2.\nSala: Sala Prim\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:75ff50d746bf0ef2bb1322645db7aad5@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260626T080000Z
-DTEND:20260626T100000Z
-SUMMARY:Jornada en defensa de los océanos \, a solicitud de Oceana
-LOCATION:Sala Clara Campoamor
-DESCRIPTION:Jornada en defensa de los océanos \, a solicitud de Oceana. Ve
- r directo . Torrespaña 3.\nSala: Sala Clara Campoamor\nFuente: congreso.e
- s
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:4b3281a4a04e70f8bf39d39ed64d1e23@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260626T083000Z
-DTEND:20260626T103000Z
-SUMMARY:Presentación de los indicadores CIF (OMS) de la Sordoceguera y del
-  estudio Distribución Territorial de la Sordoceguera e
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Presentación de los indicadores CIF (OMS) de la Sordoceguera y
-  del estudio Distribución Territorial de la Sordoceguera en España. Estu
- dio Sociosanitario y Funcional \, a solicitud de la Federación Española 
- de Sordoceguera (FESOCE). Ver directo . Torrespaña 4.\nSala: Sala Ernest 
- Lluch\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:8c24617b17640177cfaf7e95c1f38b82@congreso.es
-DTSTAMP:20260621T175943Z
-DTSTART:20260626T100000Z
-DTEND:20260626T120000Z
-SUMMARY:Acto en recuerdo y homenaje a las Víctimas de Terrorismo
-LOCATION:Sala Constitucional
-DESCRIPTION:Acto en recuerdo y homenaje a las Víctimas de Terrorismo. Ver 
- directo . YouTube . Torrespaña 1.\nSala: Sala Constitucional\nFuente: con
- greso.es
+UID:897bbe15088190e7fbe1822c01e6afaf@congreso.es
+DTSTAMP:20260628T174040Z
+DTSTART:20260703T080000Z
+DTEND:20260703T100000Z
+SUMMARY:Curso de Verano La Democracia en Europa y América \, a solicitud d
+ e la Asociación de exdiputados y exsenadores de las Cor
+LOCATION:Sala Cánovas
+DESCRIPTION:Curso de Verano La Democracia en Europa y América \, a solicit
+ ud de la Asociación de exdiputados y exsenadores de las Cortes Generales 
+ junto con el Centro Asociado a la UNED en Madrid. Torrespaña 1.\nSala: Sa
+ la Cánovas\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
