@@ -6,221 +6,80 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:2b0c2f130269f3ec0b72b3eecdb54762@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260629T090000Z
-DTEND:20260629T110000Z
-SUMMARY:Jornada Más allá de la enfermedad: impacto humano\, social y econ
- ómico de los trastornos lisosomales \, a solicitud de la 
-LOCATION:Sala Cánovas
-DESCRIPTION:Jornada Más allá de la enfermedad: impacto humano\, social y 
- económico de los trastornos lisosomales \, a solicitud de la Asociación 
- de la Mucopolisacaridosis y Síndromes Relacionados 8MPS-Lisosomales Espa
- ña). Ver directo . Torrespaña 2 .\nSala: Sala Cánovas\nFuente: congreso
- .es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:6c82095c36d33961667ca5fc9a599af5@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260629T100000Z
-DTEND:20260629T120000Z
-SUMMARY:Presentación del libro Manual práctico de Extranjería 2026: Norm
- as\, cambios y oportunidades \, a solicitud del Grupo Parl
-LOCATION:Sala Constitucional
-DESCRIPTION:Presentación del libro Manual práctico de Extranjería 2026: 
- Normas\, cambios y oportunidades \, a solicitud del Grupo Parlamentario Pl
- urinacional SUMAR. Ver directo . Torrespaña 1 .\nSala: Sala Constituciona
- l\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:271de69991fc4e7adf56ed4152896205@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260629T140000Z
-DTEND:20260629T160000Z
-SUMMARY:Ponencia para el análisis en el marco de la política de Seguridad
-  Nacional del proceso de regularización extraordinaria 
-LOCATION:Sala Lázaro Dou
-DESCRIPTION:Ponencia para el análisis en el marco de la política de Segur
- idad Nacional del proceso de regularización extraordinaria de personas ex
- tranjeras iniciado por el Gobierno . Comparecencias: 16:00 h. Raymond Torr
- es \, director de Coyuntura Económica de la Fundación de las Cajas de Ah
- orros (FUNCAS). 17:00 h. Francisco Javier de Lucas Martín \, catedrático
-  de Filosofía del Derecho y especialista en Derechos Humanos\, Ciudadaní
- a y Extranjería. Esta reunión es a puerta cerrada.\nSala: Sala Lázaro D
- ou\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:0397b507f4f887895675d218f02fb050@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260629T150000Z
-DTEND:20260629T170000Z
-SUMMARY:Proyección del cortometraje Disonancia \, a solicitud del Grupo Pa
- rlamentario Plurinacional SUMAR Ver directo
-LOCATION:Sala Constitucional
-DESCRIPTION:Proyección del cortometraje Disonancia \, a solicitud del Grup
- o Parlamentario Plurinacional SUMAR Ver directo . Torrespaña 3 .\nSala: S
- ala Constitucional\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:d05925b8bd0bc1070d315fad6eaaf831@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260630T090000Z
-DTEND:20260630T110000Z
-SUMMARY:Comisión de Vivienda y Agenda Urbana
-LOCATION:Sala Cánovas
-DESCRIPTION:Comisión de Vivienda y Agenda Urbana . Comparecencias: 11:00 h
- . Julián Salcedo Gómez \, presidente del Foro de Economistas Inmobiliari
- os del Colegio de Economistas de Madrid. 12:00 h. Sergio Nasarre Aznar \, 
- catedrático de Derecho Civil. Fundador de la Cátedra UNESCO de Vivienda.
-  Universidad Rovira i Virgili. 13:00 h. Xabier Txurruka Fernández \, alca
- lde del Ayuntamiento de Zarautz. Nota de prensa . Ver directo . YouTube . 
- Torrespaña 1 .\nSala: Sala Cánovas\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:31a520db9a56823693656b244f4a9e71@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260630T093000Z
-DTEND:20260630T113000Z
-SUMMARY:Subcomisión encargada de redactar la propuesta de mandato-marco a 
- la Corporación RTVE previsto en el artículo 4 de la Le
-LOCATION:Palacio del Senado
-DESCRIPTION:Subcomisión encargada de redactar la propuesta de mandato-marc
- o a la Corporación RTVE previsto en el artículo 4 de la Ley 17/2006\, de
-  5 de junio\, de la radio y la televisión de titularidad estatal . Redacc
- ión de la propuesta de mandato-marco a la Corporación RTVE.\nSala: Palac
- io del Senado\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:843e9bbc657533ca15342aa27ceeef62@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260630T093000Z
-DTEND:20260630T113000Z
-SUMMARY:Comisión Mixta de Relaciones con el Defensor del Pueblo
-LOCATION:Sala Prim
-DESCRIPTION:Comisión Mixta de Relaciones con el Defensor del Pueblo . Deba
- te y votación de proposición no de ley. Comparecencia del Defensor del P
- ueblo . Nota de prensa . Ver directo . YouTube . Torrespaña 2.\nSala: Sal
- a Prim\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:97e423746b8d3f3ba7b28f2d54084ea4@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260630T093000Z
-DTEND:20260630T113000Z
-SUMMARY:Comisión de Agricultura\, Pesca y Alimentación
-LOCATION:Sala Constitucional
-DESCRIPTION:Comisión de Agricultura\, Pesca y Alimentación . Comparecenci
- a del ministro de Agricultura\, Pesca y Alimentación \, a petición propi
- a\, para informar sobre "Tercer año de la PAC 2023-2024: consolidando una
-  agricultura más sostenible\, rentable y orientada al futuro". Nota de pr
- ensa . Ver directo . YouTube . Torrespaña 3 .\nSala: Sala Constitucional\
- nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:052b2802b43a12cecd61cd7687abefb3@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260630T100000Z
-DTEND:20260630T120000Z
-SUMMARY:Mesa del Congreso
-LOCATION:Salón de Ministros
-DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
- .es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:84d8cc5bd9ca82bb39adf461c9054775@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260630T100000Z
-DTEND:20260630T120000Z
-SUMMARY:Comisión Mixta para la Unión Europea
+UID:8e70d55692448241d1098f80ce8cecd0@congreso.es
+DTSTAMP:20260705T173450Z
+DTSTART:20260707T090000Z
+DTEND:20260707T110000Z
+SUMMARY:Presentación del informe: Acting Early on NCDs Spain \, a solicitu
+ d de la Alianza para la Sostenibilidad y Resiliencia de
 LOCATION:Sala Ernest Lluch
-DESCRIPTION:Comisión Mixta para la Unión Europea . Comparecencia de Alfon
- so Rueda Valenzuela \, expresidente de la delegación española en el Comi
- té Europeo de las Regiones. Nota de prensa . Ver directo . YouTube . Torr
- españa 4 .\nSala: Sala Ernest Lluch\nFuente: congreso.es
+DESCRIPTION:Presentación del informe: Acting Early on NCDs Spain \, a soli
+ citud de la Alianza para la Sostenibilidad y Resiliencia del Sistema Sanit
+ ario (PHSSR). Ver directo. Torrespaña 1.\nSala: Sala Ernest Lluch\nFuente
+ : congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:a3e0b1af42eebdbdef86c7d5ba51a089@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260630T140000Z
-DTEND:20260630T160000Z
-SUMMARY:Ponencia de la Comisión de Justicia sobre la Proposición de Ley s
- obre concesión de nacionalidad española a las y los sah
+UID:54d811699b2b392605be5c9322b2cf3c@congreso.es
+DTSTAMP:20260705T173450Z
+DTSTART:20260707T110000Z
+DTEND:20260707T130000Z
+SUMMARY:Mesa de la Comisión de Reglamento
 LOCATION:Sala Lázaro Dou
-DESCRIPTION:Ponencia de la Comisión de Justicia sobre la Proposición de L
- ey sobre concesión de nacionalidad española a las y los saharauis nacido
- s bajo la administración española.\nSala: Sala Lázaro Dou\nFuente: cong
- reso.es
+DESCRIPTION:Mesa de la Comisión de Reglamento. Sesión extraordinaria.\nSa
+ la: Sala Lázaro Dou\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:c2a81b89777673d3c9605e3815ec3419@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260701T123000Z
-DTEND:20260701T143000Z
-SUMMARY:Ponencia de la Comisión de Derechos Sociales y Consumo sobre el Pr
- oyecto de Ley por la que se modifican el Texto Refundi
-LOCATION:Sala Lázaro Dou
-DESCRIPTION:Ponencia de la Comisión de Derechos Sociales y Consumo sobre e
- l Proyecto de Ley por la que se modifican el Texto Refundido de la Ley Gen
- eral de derechos de las personas con discapacidad y de su inclusión socia
- l\, aprobado por el Real Decreto Legislativo 1/2013\, y la Ley 39/2006\, d
- e Promoción de la Autonomía Personal y Atención a las personas en situa
- ción de dependencia\, para la extensión y refuerzo de los derechos de la
- s personas con discapacidad a la inclusión\, la autonomía y la accesibil
- idad universal conforme al artículo 49 de la Constitución Española. Ses
- ión extraordinaria.\nSala: Sala Lázaro Dou\nFuente: congreso.es
+UID:3c2cf57a0acc936f02d6c4c37af56c93@congreso.es
+DTSTAMP:20260705T173450Z
+DTSTART:20260708T140000Z
+DTEND:20260708T160000Z
+SUMMARY:Comisión Mixta para la Unión Europea
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión Mixta para la Unión Europea . Sesión extraordinaria
+  . Comparecencia del vicepresidente primero del Gobierno y ministro de Eco
+ nomía\, Comercio y Empresa \, a petición propia\, para informar sobre lo
+ s progresos y avances del Plan de Recuperación\, Transformación y Resili
+ encia de la economía española\, cumpliendo con el artículo 22 del Real 
+ Decreto ley 36/2020\, de 30 de diciembre\, por el que se aprueban medidas 
+ urgentes para la modernización de la Administración Pública y para la e
+ jecución del Plan de Recuperación\, Transformación y Resiliencia. Nota 
+ de prensa . Ver directo . YouTube . Torrespaña 1 .\nSala: Sala Constituci
+ onal\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:2df6d540fe81df83d5164b59e16ef337@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260701T143000Z
-DTEND:20260701T163000Z
-SUMMARY:Curso de Verano La Democracia en Europa y América \, a solicitud d
- e la Asociación de exdiputados y exsenadores de las Cor
+UID:a9e4e5c16f7b7b13d5cc364ebcc4439b@congreso.es
+DTSTAMP:20260705T173450Z
+DTSTART:20260709T123000Z
+DTEND:20260709T143000Z
+SUMMARY:Comisión de Derechos Sociales y Consumo
 LOCATION:Sala Cánovas
-DESCRIPTION:Curso de Verano La Democracia en Europa y América \, a solicit
- ud de la Asociación de exdiputados y exsenadores de las Cortes Generales 
- junto con el Centro Asociado a la UNED en Madrid. Torrespaña 1.\nSala: Sa
- la Cánovas\nFuente: congreso.es
+DESCRIPTION:Comisión de Derechos Sociales y Consumo . Sesión extraordinar
+ ia . Emisión de dictamen\, a la vista del informe elaborado por la ponenc
+ ia\, sobre el Proyecto de Ley por la que se modifican el Texto Refundido d
+ e la Ley General de derechos de las personas con discapacidad y de su incl
+ usión social\, aprobado por el Real Decreto Legislativo 1/2013 y la Ley 3
+ 9/2006 de Promoción de la Autonomía Personal y Atención a las personas 
+ en situación de dependencia\, para la extensión y refuerzo de los derech
+ os de las personas con discapacidad a la inclusión\, la autonomía y la a
+ ccesibilidad universal conforme al artículo 49 de la Constitución Españ
+ ola . Nota de prensa . Ver directo . YouTube . Torrespaña 1 .\nSala: Sala
+  Cánovas\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:20a1db8c5e4158e79bb03295ed78d14a@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260702T080000Z
-DTEND:20260702T100000Z
-SUMMARY:Curso de Verano La Democracia en Europa y América \, a solicitud d
- e la Asociación de exdiputados y exsenadores de las Cor
-LOCATION:Sala Cánovas
-DESCRIPTION:Curso de Verano La Democracia en Europa y América \, a solicit
- ud de la Asociación de exdiputados y exsenadores de las Cortes Generales 
- junto con el Centro Asociado a la UNED en Madrid. Torrespaña 1.\nSala: Sa
- la Cánovas\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:897bbe15088190e7fbe1822c01e6afaf@congreso.es
-DTSTAMP:20260628T174040Z
-DTSTART:20260703T080000Z
-DTEND:20260703T100000Z
-SUMMARY:Curso de Verano La Democracia en Europa y América \, a solicitud d
- e la Asociación de exdiputados y exsenadores de las Cor
-LOCATION:Sala Cánovas
-DESCRIPTION:Curso de Verano La Democracia en Europa y América \, a solicit
- ud de la Asociación de exdiputados y exsenadores de las Cortes Generales 
- junto con el Centro Asociado a la UNED en Madrid. Torrespaña 1.\nSala: Sa
- la Cánovas\nFuente: congreso.es
+UID:4192f200bd9a1817d40f0b9aa2de60d3@congreso.es
+DTSTAMP:20260705T173450Z
+DTSTART:20260709T140000Z
+DTEND:20260709T160000Z
+SUMMARY:Mesa y Portavoces de la Comisión Mixta de Control Parlamentario de
+  la Corporación RTVE y sus Sociedades
+LOCATION:Palacio del Senado
+DESCRIPTION:Mesa y Portavoces de la Comisión Mixta de Control Parlamentari
+ o de la Corporación RTVE y sus Sociedades. Por videoconferencia .\nSala: 
+ Palacio del Senado\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
