@@ -6,80 +6,131 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:8e70d55692448241d1098f80ce8cecd0@congreso.es
-DTSTAMP:20260705T173450Z
-DTSTART:20260707T090000Z
-DTEND:20260707T110000Z
-SUMMARY:Presentación del informe: Acting Early on NCDs Spain \, a solicitu
- d de la Alianza para la Sostenibilidad y Resiliencia de
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Presentación del informe: Acting Early on NCDs Spain \, a soli
- citud de la Alianza para la Sostenibilidad y Resiliencia del Sistema Sanit
- ario (PHSSR). Ver directo. Torrespaña 1.\nSala: Sala Ernest Lluch\nFuente
- : congreso.es
+UID:f52b76b8376932f4032fbc0e70698d60@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260713T103000Z
+DTEND:20260713T123000Z
+SUMMARY:Comisión Mixta de Control Parlamentario de la Corporación RTVE y 
+ sus Sociedades
+LOCATION:Sala Prim
+DESCRIPTION:Comisión Mixta de Control Parlamentario de la Corporación RTV
+ E y sus Sociedades . Sesión extraordinaria . Comparecencia periódica del
+  presidente del Consejo de Administración de la Corporación RTVE para la
+  contestación de preguntas. Ver directo . YouTube . Torrespaña 1 .\nSala
+ : Sala Prim\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:54d811699b2b392605be5c9322b2cf3c@congreso.es
-DTSTAMP:20260705T173450Z
-DTSTART:20260707T110000Z
-DTEND:20260707T130000Z
-SUMMARY:Mesa de la Comisión de Reglamento
-LOCATION:Sala Lázaro Dou
-DESCRIPTION:Mesa de la Comisión de Reglamento. Sesión extraordinaria.\nSa
- la: Sala Lázaro Dou\nFuente: congreso.es
+UID:f8d943e78ed1a54e4c0b8f4248e38440@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260713T134500Z
+DTEND:20260713T154500Z
+SUMMARY:Subcomisión encargada de redactar la propuesta de mandato-marco a 
+ la Corporación RTVE previsto en el artículo 4 de la Le
+LOCATION:Sala Argüelles
+DESCRIPTION:Subcomisión encargada de redactar la propuesta de mandato-marc
+ o a la Corporación RTVE previsto en el artículo 4 de la Ley 17/2006\, de
+  5 de junio\, de la radio y la televisión de titularidad estatal . Reuni
+ ón extraordinaria.\nSala: Sala Argüelles\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:3c2cf57a0acc936f02d6c4c37af56c93@congreso.es
-DTSTAMP:20260705T173450Z
-DTSTART:20260708T140000Z
-DTEND:20260708T160000Z
-SUMMARY:Comisión Mixta para la Unión Europea
+UID:aefb0bd1c50d52562d14e3928a8d1a4f@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260714T070000Z
+DTEND:20260714T090000Z
+SUMMARY:Comisión de Economía\, Comercio y Transformación Digital
 LOCATION:Sala Constitucional
-DESCRIPTION:Comisión Mixta para la Unión Europea . Sesión extraordinaria
-  . Comparecencia del vicepresidente primero del Gobierno y ministro de Eco
- nomía\, Comercio y Empresa \, a petición propia\, para informar sobre lo
- s progresos y avances del Plan de Recuperación\, Transformación y Resili
- encia de la economía española\, cumpliendo con el artículo 22 del Real 
- Decreto ley 36/2020\, de 30 de diciembre\, por el que se aprueban medidas 
- urgentes para la modernización de la Administración Pública y para la e
- jecución del Plan de Recuperación\, Transformación y Resiliencia. Nota 
- de prensa . Ver directo . YouTube . Torrespaña 1 .\nSala: Sala Constituci
- onal\nFuente: congreso.es
+DESCRIPTION:Comisión de Economía\, Comercio y Transformación Digital . S
+ esión extraordinaria . Comparecencias de candidatos propuestos por el Gob
+ ierno para consejeros de la Comisión Nacional de los Mercados y la Compet
+ encia: María Carmen Balsa Pascual \, Joan Capdevila i Esteve \, Marina Ec
+ hebarría Saénz . Comparecencia del candidato propuesto por el Gobierno p
+ ara la Presidencia de la Comisión Nacional de los Mercados y la Competenc
+ ia\, Juan José Ganuza Fernández . Emisión del dictamen sobre la idoneid
+ ad o existencia de conflicto de intereses en relación con los candidatos 
+ propuestos. Nota de prensa . Ver directo . YouTube . Torrespaña 1 .\nSala
+ : Sala Constitucional\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:a9e4e5c16f7b7b13d5cc364ebcc4439b@congreso.es
-DTSTAMP:20260705T173450Z
-DTSTART:20260709T123000Z
-DTEND:20260709T143000Z
-SUMMARY:Comisión de Derechos Sociales y Consumo
-LOCATION:Sala Cánovas
-DESCRIPTION:Comisión de Derechos Sociales y Consumo . Sesión extraordinar
- ia . Emisión de dictamen\, a la vista del informe elaborado por la ponenc
- ia\, sobre el Proyecto de Ley por la que se modifican el Texto Refundido d
- e la Ley General de derechos de las personas con discapacidad y de su incl
- usión social\, aprobado por el Real Decreto Legislativo 1/2013 y la Ley 3
- 9/2006 de Promoción de la Autonomía Personal y Atención a las personas 
- en situación de dependencia\, para la extensión y refuerzo de los derech
- os de las personas con discapacidad a la inclusión\, la autonomía y la a
- ccesibilidad universal conforme al artículo 49 de la Constitución Españ
- ola . Nota de prensa . Ver directo . YouTube . Torrespaña 1 .\nSala: Sala
-  Cánovas\nFuente: congreso.es
+UID:ce87fbff5e40e2c16e4669695a024261@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260714T070000Z
+DTEND:20260714T190000Z
+SUMMARY:Comisión de Reglamento
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión de Reglamento . Sesión extraordinaria . Ratificació
+ n de la ponencia designada para informar sobre la Proposición de reforma 
+ del Reglamento del Congreso . Ver directo . YouTube . Torrespaña 2 .\nSal
+ a: Sala Constitucional\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:4192f200bd9a1817d40f0b9aa2de60d3@congreso.es
-DTSTAMP:20260705T173450Z
-DTSTART:20260709T140000Z
-DTEND:20260709T160000Z
-SUMMARY:Mesa y Portavoces de la Comisión Mixta de Control Parlamentario de
-  la Corporación RTVE y sus Sociedades
-LOCATION:Palacio del Senado
-DESCRIPTION:Mesa y Portavoces de la Comisión Mixta de Control Parlamentari
- o de la Corporación RTVE y sus Sociedades. Por videoconferencia .\nSala: 
- Palacio del Senado\nFuente: congreso.es
+UID:7cebf88ef8a329c4f6a55f341241ad69@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260714T070000Z
+DTEND:20260714T190000Z
+SUMMARY:Ponencia de la Comisión de Trabajo\, Economía Social\, Inclusión
+ \, Seguridad Social y Migraciones sobre la Proposición de L
+LOCATION:Sala Lázaro Dou
+DESCRIPTION:Ponencia de la Comisión de Trabajo\, Economía Social\, Inclus
+ ión\, Seguridad Social y Migraciones sobre la Proposición de Ley para el
+  impulso de la inclusión laboral de las personas con discapacidad a trav
+ és de la cuota de reserva de empleo en las empresas . Sesión extraordina
+ ria.\nSala: Sala Lázaro Dou\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:423700082a09fe96677acf69b4422117@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260714T080000Z
+DTEND:20260714T100000Z
+SUMMARY:Mesa del Congreso
+LOCATION:Salón de Ministros
+DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
+ .es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:2810f8101ed0570c3c38c605c19a536e@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260714T083000Z
+DTEND:20260714T103000Z
+SUMMARY:Comisión de Investigación sobre el derecho a saber la verdad y la
+ s implicaciones derivadas de los atentados de Barcelona
+LOCATION:Sala Prim
+DESCRIPTION:Comisión de Investigación sobre el derecho a saber la verdad 
+ y las implicaciones derivadas de los atentados de Barcelona y Cambrils del
+  17 de agosto de 2017 . Sesión extraordinaria . Debate y votación del di
+ ctamen. Esta sesión es a puerta cerrada.\nSala: Sala Prim\nFuente: congre
+ so.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:560d926fe369457f173f64491d8279f5@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260714T100000Z
+DTEND:20260714T120000Z
+SUMMARY:Sesión Plenaria
+LOCATION:Hemiciclo
+DESCRIPTION:Sesión Plenaria . Sesión extraordinaria . Debate relativo al 
+ objetivo de estabilidad presupuestaria. Convalidación o derogación de Re
+ ales decretos-leyes. Dictamen de comisión sobre iniciativa legislativa. D
+ ebate de totalidad sobre iniciativa legislativa. Nota de prensa . Ver dire
+ cto . YouTube original . YouTube traducción y subtitulado . Torrespaña 1
+  y 2 original y traducción. Torrespaña 3 Pasillo. Torrespaña 4 Escritor
+ io.\nSala: Hemiciclo\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8418331b21d44cf1736be632382a78@congreso.es
+DTSTAMP:20260712T173031Z
+DTSTART:20260716T100000Z
+DTEND:20260716T120000Z
+SUMMARY:Junta Electoral Central
+LOCATION:Sala SERT
+DESCRIPTION:Junta Electoral Central.\nSala: Sala SERT\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
