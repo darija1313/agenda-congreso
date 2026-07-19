@@ -6,131 +6,89 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:f52b76b8376932f4032fbc0e70698d60@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260713T103000Z
-DTEND:20260713T123000Z
-SUMMARY:Comisión Mixta de Control Parlamentario de la Corporación RTVE y 
- sus Sociedades
-LOCATION:Sala Prim
-DESCRIPTION:Comisión Mixta de Control Parlamentario de la Corporación RTV
- E y sus Sociedades . Sesión extraordinaria . Comparecencia periódica del
-  presidente del Consejo de Administración de la Corporación RTVE para la
-  contestación de preguntas. Ver directo . YouTube . Torrespaña 1 .\nSala
- : Sala Prim\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:f8d943e78ed1a54e4c0b8f4248e38440@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260713T134500Z
-DTEND:20260713T154500Z
+UID:7b6b95e85eb676b2fde59983c9896cfb@congreso.es
+DTSTAMP:20260719T172938Z
+DTSTART:20260722T143000Z
+DTEND:20260722T163000Z
 SUMMARY:Subcomisión encargada de redactar la propuesta de mandato-marco a 
  la Corporación RTVE previsto en el artículo 4 de la Le
 LOCATION:Sala Argüelles
 DESCRIPTION:Subcomisión encargada de redactar la propuesta de mandato-marc
  o a la Corporación RTVE previsto en el artículo 4 de la Ley 17/2006\, de
-  5 de junio\, de la radio y la televisión de titularidad estatal . Reuni
- ón extraordinaria.\nSala: Sala Argüelles\nFuente: congreso.es
+  5 de junio\, de la radio y la televisión de titularidad estatal . Sesió
+ n extraordinaria. Redacción de la propuesta de mandato-marco a la Corpora
+ ción RTVE.\nSala: Sala Argüelles\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:aefb0bd1c50d52562d14e3928a8d1a4f@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260714T070000Z
-DTEND:20260714T090000Z
-SUMMARY:Comisión de Economía\, Comercio y Transformación Digital
-LOCATION:Sala Constitucional
-DESCRIPTION:Comisión de Economía\, Comercio y Transformación Digital . S
- esión extraordinaria . Comparecencias de candidatos propuestos por el Gob
- ierno para consejeros de la Comisión Nacional de los Mercados y la Compet
- encia: María Carmen Balsa Pascual \, Joan Capdevila i Esteve \, Marina Ec
- hebarría Saénz . Comparecencia del candidato propuesto por el Gobierno p
- ara la Presidencia de la Comisión Nacional de los Mercados y la Competenc
- ia\, Juan José Ganuza Fernández . Emisión del dictamen sobre la idoneid
- ad o existencia de conflicto de intereses en relación con los candidatos 
- propuestos. Nota de prensa . Ver directo . YouTube . Torrespaña 1 .\nSala
- : Sala Constitucional\nFuente: congreso.es
+UID:3e40f663965cc567c5f773677daf2358@congreso.es
+DTSTAMP:20260719T172938Z
+DTSTART:20260723T070000Z
+DTEND:20260723T190000Z
+SUMMARY:Comisión de Trabajo\, Economía Social\, Inclusión\, Seguridad So
+ cial y Migraciones
+LOCATION:Sala Cánovas
+DESCRIPTION:Comisión de Trabajo\, Economía Social\, Inclusión\, Segurida
+ d Social y Migraciones . Sesión extraordinaria. Aprobación con competenc
+ ia legislativa plena de la Proposición de Ley para el impulso de la inclu
+ sión laboral de las personas con discapacidad a través de la cuota de re
+ serva de empleo en las empresas . Nota de prensa. Ver directo . YouTube . 
+ Torrespaña 2 .\nSala: Sala Cánovas\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:ce87fbff5e40e2c16e4669695a024261@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260714T070000Z
-DTEND:20260714T190000Z
-SUMMARY:Comisión de Reglamento
-LOCATION:Sala Constitucional
-DESCRIPTION:Comisión de Reglamento . Sesión extraordinaria . Ratificació
- n de la ponencia designada para informar sobre la Proposición de reforma 
- del Reglamento del Congreso . Ver directo . YouTube . Torrespaña 2 .\nSal
- a: Sala Constitucional\nFuente: congreso.es
+UID:482e9659509825a542700b16cf6176d2@congreso.es
+DTSTAMP:20260719T172938Z
+DTSTART:20260723T071500Z
+DTEND:20260723T091500Z
+SUMMARY:Comisión de Justicia
+LOCATION:Sala Cánovas
+DESCRIPTION:Comisión de Justicia . Sesión extraordinaria . Emisión de di
+ ctamen\, a la vista del informe elaborado por la ponencia\, sobre la Propo
+ sición de Ley sobre concesión de nacionalidad española a las y los saha
+ rauis nacidos bajo la administración española. Nota de prensa . Ver dire
+ cto . YouTube . Torrespaña 1 .\nSala: Sala Cánovas\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:7cebf88ef8a329c4f6a55f341241ad69@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260714T070000Z
-DTEND:20260714T190000Z
-SUMMARY:Ponencia de la Comisión de Trabajo\, Economía Social\, Inclusión
- \, Seguridad Social y Migraciones sobre la Proposición de L
+UID:adffb24be05be78340f97ad1b856382e@congreso.es
+DTSTAMP:20260719T172938Z
+DTSTART:20260723T074500Z
+DTEND:20260723T094500Z
+SUMMARY:Ponencia de la Comisión de Cultura sobre el Proyecto de Ley del Ci
+ ne y de la Cultura Audiovisual
 LOCATION:Sala Lázaro Dou
-DESCRIPTION:Ponencia de la Comisión de Trabajo\, Economía Social\, Inclus
- ión\, Seguridad Social y Migraciones sobre la Proposición de Ley para el
-  impulso de la inclusión laboral de las personas con discapacidad a trav
- és de la cuota de reserva de empleo en las empresas . Sesión extraordina
- ria.\nSala: Sala Lázaro Dou\nFuente: congreso.es
+DESCRIPTION:Ponencia de la Comisión de Cultura sobre el Proyecto de Ley de
+ l Cine y de la Cultura Audiovisual . Sesión extraordinaria .\nSala: Sala 
+ Lázaro Dou\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:423700082a09fe96677acf69b4422117@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260714T080000Z
-DTEND:20260714T100000Z
-SUMMARY:Mesa del Congreso
-LOCATION:Salón de Ministros
-DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
- .es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:2810f8101ed0570c3c38c605c19a536e@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260714T083000Z
-DTEND:20260714T103000Z
+UID:13f0e5acca4a571f948c61426cdf762f@congreso.es
+DTSTAMP:20260719T172938Z
+DTSTART:20260723T080000Z
+DTEND:20260723T100000Z
 SUMMARY:Comisión de Investigación sobre el derecho a saber la verdad y la
  s implicaciones derivadas de los atentados de Barcelona
 LOCATION:Sala Prim
 DESCRIPTION:Comisión de Investigación sobre el derecho a saber la verdad 
  y las implicaciones derivadas de los atentados de Barcelona y Cambrils del
   17 de agosto de 2017 . Sesión extraordinaria . Debate y votación del di
- ctamen. Esta sesión es a puerta cerrada.\nSala: Sala Prim\nFuente: congre
- so.es
+ ctamen. Esta sesión es a puerta cerrada .\nSala: Sala Prim\nFuente: congr
+ eso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:560d926fe369457f173f64491d8279f5@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260714T100000Z
-DTEND:20260714T120000Z
+UID:350176fd6c68c91c5f22c9c0d620e2da@congreso.es
+DTSTAMP:20260719T172938Z
+DTSTART:20260723T090000Z
+DTEND:20260723T110000Z
 SUMMARY:Sesión Plenaria
 LOCATION:Hemiciclo
-DESCRIPTION:Sesión Plenaria . Sesión extraordinaria . Debate relativo al 
- objetivo de estabilidad presupuestaria. Convalidación o derogación de Re
- ales decretos-leyes. Dictamen de comisión sobre iniciativa legislativa. D
- ebate de totalidad sobre iniciativa legislativa. Nota de prensa . Ver dire
- cto . YouTube original . YouTube traducción y subtitulado . Torrespaña 1
-  y 2 original y traducción. Torrespaña 3 Pasillo. Torrespaña 4 Escritor
- io.\nSala: Hemiciclo\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:1c8418331b21d44cf1736be632382a78@congreso.es
-DTSTAMP:20260712T173031Z
-DTSTART:20260716T100000Z
-DTEND:20260716T120000Z
-SUMMARY:Junta Electoral Central
-LOCATION:Sala SERT
-DESCRIPTION:Junta Electoral Central.\nSala: Sala SERT\nFuente: congreso.es
+DESCRIPTION:Sesión Plenaria. Sesión extraordinaria . Ver directo . YouTub
+ e original . YouTube traducción y subtitulado . Torrespaña 1 y 2 origina
+ l y traducción. Torrespaña 3 Escritorio. Torrespaña 4 Pasillo.\nSala: H
+ emiciclo\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
