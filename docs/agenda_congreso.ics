@@ -5,17 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
-BEGIN:VEVENT
-UID:5bc2bcc93a9708e8921505678bbfb71b@congreso.es
-DTSTAMP:20260726T172950Z
-DTSTART:20260729T090000Z
-DTEND:20260729T110000Z
-SUMMARY:Jornada parlamentaria sobre los retos de la España actual\, a soli
- citud del Grupo Parlamentario Popular
-LOCATION:Sala Constitucional
-DESCRIPTION:Jornada parlamentaria sobre los retos de la España actual\, a 
- solicitud del Grupo Parlamentario Popular. Ver directo. Torrespaña 1.\nSa
- la: Sala Constitucional\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
 END:VCALENDAR
