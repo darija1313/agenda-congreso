@@ -5,4 +5,97 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:b028cfd1cb0efe47c69642da0d46c33c@congreso.es
+DTSTAMP:20260823T164720Z
+DTSTART:20260825T103000Z
+DTEND:20260825T123000Z
+SUMMARY:Comisión de Defensa
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión de Defensa . Sesión extraordinaria . Comparecencia d
+ e la ministra de Defensa \, a petición propia\, al objeto de informar sob
+ re la gestión de sus competencias en relación a los hechos sucedidos en 
+ la Ciudad Autónoma de Ceuta el día 30 de julio y siguientes. Nota de pre
+ nsa . Ver directo . YouTube . Torrespaña 1 .\nSala: Sala Constitucional\n
+ Fuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:5a822a509dea0f55241cc2b30cd91298@congreso.es
+DTSTAMP:20260823T164720Z
+DTSTART:20260827T080000Z
+DTEND:20260827T100000Z
+SUMMARY:Comisión Mixta de Seguridad Nacional
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión Mixta de Seguridad Nacional. Sesión extraordinaria .
+  Comparecencia del ministro de la Presidencia\, Justicia y Relaciones con 
+ las Cortes \, a petición propia\, al objeto de informar sobre la gestión
+  de sus competencias en relación a los hechos sucedidos en la Ciudad Aut
+ ónoma de Ceuta el día 30 de julio y siguientes. Nota de prensa . Ver dir
+ ecto . YouTube . Torrespaña 1 .\nSala: Sala Constitucional\nFuente: congr
+ eso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:b4afa9ce8829cb6c4dafbe9eb9db592c@congreso.es
+DTSTAMP:20260823T164720Z
+DTSTART:20260827T100000Z
+DTEND:20260827T120000Z
+SUMMARY:Comisión de Sanidad
+LOCATION:Sala Prim
+DESCRIPTION:Comisión de Sanidad. Sesión extraordinaria . Comparecencia de
+  la ministra de Sanidad \, a petición propia\, para explicar las actuacio
+ nes que está llevando a cabo el Ministerio de Sanidad\, y el funcionamien
+ to del sistema sanitario en la Ciudad Autónoma de Ceuta ante la crisis mi
+ gratoria. Nota de prensa . Ver directo. YouTube . Torrespaña 2 .\nSala: S
+ ala Prim\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:ff48eb75a78ef6b764749263a1702f16@congreso.es
+DTSTAMP:20260823T164720Z
+DTSTART:20260828T070000Z
+DTEND:20260828T090000Z
+SUMMARY:Comisión de Interior
+LOCATION:Sala Prim
+DESCRIPTION:Comisión de Interior . Sesión extraordinaria . Comparecencia 
+ del ministro del Interior \, a petición propia\, al objeto de informar so
+ bre la gestión de sus competencias en relación a los hechos sucedidos en
+  la Ciudad Autónoma de Ceuta el día 30 de julio y siguientes. Nota de pr
+ ens a . Ver directo . YouTube . Torrespaña 1 .\nSala: Sala Prim\nFuente: 
+ congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:a091df77bfca3b7d496d0a88d19c4525@congreso.es
+DTSTAMP:20260823T164720Z
+DTSTART:20260828T100000Z
+DTEND:20260828T120000Z
+SUMMARY:Comisión de Asuntos Exteriores
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión de Asuntos Exteriores . Sesión extraordinaria . Comp
+ arecencia del ministro de Asuntos Exteriores\, Unión Europea y Cooperaci
+ ón \, a petición propia\, al objeto de informar sobre la gestión de sus
+  competencias en relación a los hechos sucedidos en la Ciudad Autónoma d
+ e Ceuta el día 30 de julio y siguientes. Nota de prensa . Ver directo . Y
+ ouTube . Torrespaña 2 .\nSala: Sala Constitucional\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:82c2d4b3861528fb080e5b60dc2cb6fc@congreso.es
+DTSTAMP:20260823T164720Z
+DTSTART:20260828T140000Z
+DTEND:20260828T160000Z
+SUMMARY:Comisión de Trabajo\, Economía Social\, Inclusión\, Seguridad So
+ cial y Migraciones
+LOCATION:Sala Prim
+DESCRIPTION:Comisión de Trabajo\, Economía Social\, Inclusión\, Segurida
+ d Social y Migraciones . Sesión extraordinaria . Comparecencia de la mini
+ stra de Inclusión\, Seguridad Social y Migraciones \, a petición propia\
+ , para dar cuenta de las gestiones realizadas en el ámbito de sus compete
+ ncias en Ceuta tras los hechos ocurridos el 30 de julio. Nota de prensa . 
+ Ver directo . YouTube . Torrespaña 3 .\nSala: Sala Prim\nFuente: congreso
+ .es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
 END:VCALENDAR
