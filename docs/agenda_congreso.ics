@@ -6,72 +6,158 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:c17645b71b8e5cc0aa21fbb33494dd36@congreso.es
-DTSTAMP:20260830T192202Z
-DTSTART:20260831T090000Z
-DTEND:20260831T110000Z
-SUMMARY:Comisión de Juventud e Infancia
-LOCATION:Sala Prim
-DESCRIPTION:Comisión de Juventud e Infancia. Sesión extraordinaria . Comp
- arecencia de la ministra de Juventud e Infancia \, a petición propia\, pa
- ra informar sobre el trabajo desarrollado por su Departamento con el fin d
- e garantizar la atención y la protección de los derechos de los niños\,
-  niñas y adolescentes no acompañados que se encuentran en la Ciudad Aut
- ónoma de Ceuta desde el pasado 30 de julio. Nota de prensa . Ver directo.
-  YouTube. Torrespaña 1.\nSala: Sala Prim\nFuente: congreso.es
+UID:87d6f3658442a1c989ba642d693b60b8@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260908T100000Z
+DTEND:20260908T120000Z
+SUMMARY:Junta de Portavoces\,
+LOCATION:Sala Mariana Pineda
+DESCRIPTION:Junta de Portavoces\,\nSala: Sala Mariana Pineda\nFuente: congr
+ eso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:85f756e344fd3240f34bb62ff7abb067@congreso.es
-DTSTAMP:20260830T192202Z
-DTSTART:20260831T140000Z
-DTEND:20260831T160000Z
-SUMMARY:Comisión de Igualdad
-LOCATION:Sala Constitucional
-DESCRIPTION:Comisión de Igualdad . Sesión extraordinaria . Comparecencia 
- de la ministra de Igualdad \, a petición propia\, para informar de las ac
- tuaciones desarrolladas por el Ministerio de Igualdad ante la crisis human
- itaria de Ceuta. Nota de prensa . Ver directo . YouTube . Torrespaña 2.\n
- Sala: Sala Constitucional\nFuente: congreso.es
+UID:4d42e3c16697ecf6e8bb9b124a9986a8@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260908T103000Z
+DTEND:20260908T123000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Industria y Turismo
+LOCATION:Sala Lázaro Dou
+DESCRIPTION:Mesa y Portavoces de la Comisión de Industria y Turismo.\nSala
+ : Sala Lázaro Dou\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:c056829e24be0d9bc0de440c47fa7bc7@congreso.es
-DTSTAMP:20260830T192202Z
-DTSTART:20260903T070000Z
-DTEND:20260903T090000Z
+UID:37f17fc8e4906a3d33fee215ba84c7a5@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260908T153000Z
+DTEND:20260908T173000Z
+SUMMARY:Mesa del Congreso
+LOCATION:Salón de Ministros
+DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
+ .es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:9d992499ecfcca1dd8241e2766b85bd7@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260909T065000Z
+DTEND:20260909T085000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Vivienda y Agenda Urbana
+LOCATION:Escritorio del Reloj (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión de Vivienda y Agenda Urbana.\
+ nSala: Escritorio del Reloj (Palacio)\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:1a800cc8a7ece77b3f6b2d821017d82e@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260909T070000Z
+DTEND:20260909T090000Z
 SUMMARY:Sesión Plenaria
 LOCATION:Hemiciclo
-DESCRIPTION:Sesión Plenaria . Comparecencia del presidente del Gobierno al
-  objeto de informar sobre la gestión del Gobierno en relación con los he
- chos acaecidos en Ceuta desde el pasado día 30 de julio\, entre otros asu
- ntos. Nota de prensa . Ver directo . YouTube original . YouTube traducció
- n y subtitulado . Torrespaña 1 y 2 original y traducción. Torrespaña 3 
- Pasillo. Torrespaña 4 Escritorio.\nSala: Hemiciclo\nFuente: congreso.es
+DESCRIPTION:Sesión Plenaria . Preguntas e interpelaciones. Comparecencia d
+ e la vicepresidenta tercera del Gobierno y ministra para la Transición Ec
+ ológica y el Reto Demográfico \, a petición propia\, para dar cuenta de
+  las actuaciones adoptadas frente a la emergencia climática en el marco d
+ e las propuestas de un Pacto País y en el contexto de la campaña contra 
+ los incendios forestales\, así como de la actual situación geopolítica 
+ y de los mercados energéticos. Convalidación o derogación de real decre
+ to-ley. Nota de prensa . Ver directo . YouTube original . YouTube traducci
+ ón y subtitulado . Torrespaña 1 y 2 original y traducción. Torrespaña 
+ 3 Pasillo. Torrespaña 4 Escritorio.\nSala: Hemiciclo\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:47dd5ccb21728f44f94628288e04e990@congreso.es
-DTSTAMP:20260830T192202Z
-DTSTART:20260903T070000Z
-DTEND:20260903T190000Z
-SUMMARY:Comisión del Estatuto
+UID:fd25d8a0162b1690ef4d79c5155fdba4@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260909T070000Z
+DTEND:20260909T190000Z
+SUMMARY:Mesa de la Comisión de Trabajo\, Economía Social\, Inclusión\, S
+ eguridad Social y Migraciones
+LOCATION:Escritorio del Reloj (Palacio)
+DESCRIPTION:Mesa de la Comisión de Trabajo\, Economía Social\, Inclusión
+ \, Seguridad Social y Migraciones.\nSala: Escritorio del Reloj (Palacio)\n
+ Fuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:83b5a152afae4cfb5fe667c10f0c05a6@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260909T070000Z
+DTEND:20260909T190000Z
+SUMMARY:Mesa de la Comisión de Hacienda y Función Pública
+LOCATION:Escritorio de la Constitución (Palacio)
+DESCRIPTION:Mesa de la Comisión de Hacienda y Función Pública.\nSala: Es
+ critorio de la Constitución (Palacio)\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:d55ecf851458cf89797fe557c563bc50@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260909T070000Z
+DTEND:20260909T190000Z
+SUMMARY:Mesa de la Comisión de Investigación sobre la gestión de la cris
+ is derivada de la DANA que tuvo lugar el 29 de octubre d
+LOCATION:Sala Peces-Barba
+DESCRIPTION:Mesa de la Comisión de Investigación sobre la gestión de la 
+ crisis derivada de la DANA que tuvo lugar el 29 de octubre de 2024\, así 
+ como para el estudio y propuesta de medidas de mejora destinadas a paliar 
+ los efectos de estos fenómenos adversos en el futuro.\nSala: Sala Peces-B
+ arba\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:c904405eb512753f5034bf46bf45d147@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260909T070000Z
+DTEND:20260909T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Derechos Sociales y Consumo
+LOCATION:Sala Gabriel Cisneros
+DESCRIPTION:Mesa y Portavoces de la Comisión de Derechos Sociales y Consum
+ o.\nSala: Sala Gabriel Cisneros\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:b381c8500e4d46491a468abda8031c69@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260909T153000Z
+DTEND:20260909T173000Z
+SUMMARY:Mesa y Portavoces de la Comisión Mixta para la Unión Europea
 LOCATION:Sala Lázaro Dou
-DESCRIPTION:Comisión del Estatuto . Esta reunión es a puerta cerrada .\nS
- ala: Sala Lázaro Dou\nFuente: congreso.es
+DESCRIPTION:Mesa y Portavoces de la Comisión Mixta para la Unión Europea.
+ \nSala: Sala Lázaro Dou\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:62cb0bdc35cbf14c486d232552cc63f4@congreso.es
-DTSTAMP:20260830T192202Z
-DTSTART:20260904T083000Z
-DTEND:20260904T103000Z
-SUMMARY:Acto de clausura del proyecto Democracia con Z \, a solicitud del C
- onsejo de la Juventud de España (CJE)
+UID:2bf322363de8d059584ecbbffab57cf4@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260910T070000Z
+DTEND:20260910T090000Z
+SUMMARY:Sesión Plenaria
 LOCATION:Hemiciclo
-DESCRIPTION:Acto de clausura del proyecto Democracia con Z \, a solicitud d
- el Consejo de la Juventud de España (CJE). Ver directo . YouTube . Torres
- paña 1.\nSala: Hemiciclo\nFuente: congreso.es
+DESCRIPTION:Sesión Plenaria . Dictamen de comisión sobre iniciativa legis
+ lativa. Proposiciones no de ley. Mociones consecuencia de interpelaciones 
+ urgentes. Toma en consideración de proposiciones de ley. Dictámenes de l
+ a Comisión de Asuntos Exteriores sobre convenios internacionales. Informe
+  acerca del cumplimiento del Presupuesto de la Cámara correspondiente al 
+ ejercicio 2025. Declaración sobre la Cuenta General del Estado del ejerci
+ cio 2024. Propuesta de creación de subcomisión. Nota de prensa . Ver dir
+ ecto . YouTube original . YouTube traducción y subtitulado . Torrespaña 
+ 1 y 2 original y traducción. Torrespaña 3 Pasillo. Torrespaña 4 Escrito
+ rio.\nSala: Hemiciclo\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:eff2fe16ce0ebe67179f74401f5a173a@congreso.es
+DTSTAMP:20260906T182555Z
+DTSTART:20260910T150000Z
+DTEND:20260910T170000Z
+SUMMARY:Acto en conmemoración del 50
+LOCATION:Sala Constitucional
+DESCRIPTION:Acto en conmemoración del 50.º aniversario de la aprobación 
+ del Proyecto de Ley para la Reforma Política. Ver directo . YouTube . Tor
+ respaña 3.\nSala: Sala Constitucional\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
