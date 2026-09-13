@@ -6,32 +6,120 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:87d6f3658442a1c989ba642d693b60b8@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260908T100000Z
-DTEND:20260908T120000Z
-SUMMARY:Junta de Portavoces\,
-LOCATION:Sala Mariana Pineda
-DESCRIPTION:Junta de Portavoces\,\nSala: Sala Mariana Pineda\nFuente: congr
- eso.es
+UID:2a64abf4bf04b4fc6f2989f6610dfd6e@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260914T103000Z
+DTEND:20260914T123000Z
+SUMMARY:Junta Electoral Central
+LOCATION:Sala SERT
+DESCRIPTION:Junta Electoral Central.\nSala: Sala SERT\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:4d42e3c16697ecf6e8bb9b124a9986a8@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260908T103000Z
-DTEND:20260908T123000Z
-SUMMARY:Mesa y Portavoces de la Comisión de Industria y Turismo
+UID:864725c41f52e06943e629d12cfa9485@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260914T130000Z
+DTEND:20260914T150000Z
+SUMMARY:Jornada parlamentaria Alquiler con animales de compañía: Abre la 
+ puerta \, a cargo de la Fundación para el Asesoramiento 
+LOCATION:Sala Clara Campoamor
+DESCRIPTION:Jornada parlamentaria Alquiler con animales de compañía: Abre
+  la puerta \, a cargo de la Fundación para el Asesoramiento y Acción en 
+ Defensa de los Animales (FAADA)\, a solicitud del Grupo Parlamentario Repu
+ blicano. Ver directo . Torrespaña 1.\nSala: Sala Clara Campoamor\nFuente:
+  congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:c811efe4dfb582dbc5d367def2acd0ca@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260914T140000Z
+DTEND:20260914T160000Z
+SUMMARY:Comisión de Investigación de la interrupción del suministro elé
+ ctrico el 28 de abril de 2025
+LOCATION:Sala Prim
+DESCRIPTION:Comisión de Investigación de la interrupción del suministro 
+ eléctrico el 28 de abril de 2025 . Comparecencias: 16:00 h. Concepción S
+ ánchez Pérez \, directora general de Operaciones de Red Eléctrica y dir
+ ectora general de Operación de Redeia Corporación\, S.A.. 18:00 horas Jo
+ sé Donoso Alonso\, director general de la Unión Nacional Fotovoltaica (U
+ NEF)\, economista\, experto en energías renovables. Nota de prensa . Ver 
+ directo . YouTube . Torrespaña 2.\nSala: Sala Prim\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:46c2f480007078cebe2116acff00bab2@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260914T143000Z
+DTEND:20260914T163000Z
+SUMMARY:Ponencia para el análisis en el marco de la política de Seguridad
+  Nacional del proceso de regularización extraordinaria 
 LOCATION:Sala Lázaro Dou
-DESCRIPTION:Mesa y Portavoces de la Comisión de Industria y Turismo.\nSala
- : Sala Lázaro Dou\nFuente: congreso.es
+DESCRIPTION:Ponencia para el análisis en el marco de la política de Segur
+ idad Nacional del proceso de regularización extraordinaria de personas ex
+ tranjeras iniciado por el Gobierno . Comparecencias: 16:30 h. David Querol
+  Sánchez \, vocal de la Subcomisión de Extranjería y Proteción Interna
+ cional del Consejo General de la Abogacía Español y profesor de Derecho 
+ Administrativo de la Universidad de Barcelona. 17:30 h. Ordenación de los
+  trabajos. 18:00 h. Aarón Rivero \, secretario general del Sindicato JUPO
+ L. Esta reunión es a puerta cerrada .\nSala: Sala Lázaro Dou\nFuente: co
+ ngreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:37f17fc8e4906a3d33fee215ba84c7a5@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260908T153000Z
-DTEND:20260908T173000Z
+UID:9f53de82c63cb1dc219b4d19ea485286@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T070000Z
+DTEND:20260915T090000Z
+SUMMARY:Mesa y Portavoces de la Comisión Mixta sobre Insularidad
+LOCATION:Palacio del Senado
+DESCRIPTION:Mesa y Portavoces de la Comisión Mixta sobre Insularidad. Por 
+ videoconferencia .\nSala: Palacio del Senado\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:c996edbfe5f04badf68ef7c899da5bb0@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T070000Z
+DTEND:20260915T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión sobre Seguridad Vial
+LOCATION:Escritorio de la Constitución (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión sobre Seguridad Vial.\nSala: 
+ Escritorio de la Constitución (Palacio)\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cc05fedcb532420a395f0221c23abdb9@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T070000Z
+DTEND:20260915T190000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Igualdad
+LOCATION:Escritorio del Reloj (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión de Igualdad.\nSala: Escritori
+ o del Reloj (Palacio)\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:c48efd9a247a343393e91e1c9a9fef17@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T080000Z
+DTEND:20260915T100000Z
+SUMMARY:Comisión de Vivienda y Agenda Urbana
+LOCATION:Sala Cánovas
+DESCRIPTION:Comisión de Vivienda y Agenda Urbana . Comparecencias: 10:00 h
+ . Concha Santos Pedraz \, presidenta de la Asociación Nacional de Constru
+ ctores Independientes (ANCT). 11:00 h. Alfredo Díaz-Araque Moro \, direct
+ or gerente de la Asociación de Promotores Constructores de España (APCE)
+ . 12:00 h. Josep María Aguirre i Font \, profesor agregado de derecho adm
+ inistrativo de la Universitat de Girona. Nota de prensa . Ver directo . Yo
+ uTube . Torrespaña 1.\nSala: Sala Cánovas\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:6e10b2558bb7bf175da870238cfc2237@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T080000Z
+DTEND:20260915T100000Z
 SUMMARY:Mesa del Congreso
 LOCATION:Salón de Ministros
 DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
@@ -39,125 +127,263 @@ DESCRIPTION:Mesa del Congreso.\nSala: Salón de Ministros\nFuente: congreso
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:9d992499ecfcca1dd8241e2766b85bd7@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260909T065000Z
-DTEND:20260909T085000Z
-SUMMARY:Mesa y Portavoces de la Comisión de Vivienda y Agenda Urbana
-LOCATION:Escritorio del Reloj (Palacio)
-DESCRIPTION:Mesa y Portavoces de la Comisión de Vivienda y Agenda Urbana.\
- nSala: Escritorio del Reloj (Palacio)\nFuente: congreso.es
+UID:f003316d8e34ada7627faf8140f7951a@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T080000Z
+DTEND:20260915T100000Z
+SUMMARY:Comisión de Investigación de la interrupción del suministro elé
+ ctrico el 28 de abril de 2025
+LOCATION:Sala Prim
+DESCRIPTION:Comisión de Investigación de la interrupción del suministro 
+ eléctrico el 28 de abril de 2025 . Comparecencia de Joan Groizard Payeras
+  \, secretario de Estado de Energía. Nota de prensa . Ver directo . YouTu
+ be . Torrespaña 4 .\nSala: Sala Prim\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:1a800cc8a7ece77b3f6b2d821017d82e@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260909T070000Z
-DTEND:20260909T090000Z
-SUMMARY:Sesión Plenaria
-LOCATION:Hemiciclo
-DESCRIPTION:Sesión Plenaria . Preguntas e interpelaciones. Comparecencia d
- e la vicepresidenta tercera del Gobierno y ministra para la Transición Ec
- ológica y el Reto Demográfico \, a petición propia\, para dar cuenta de
-  las actuaciones adoptadas frente a la emergencia climática en el marco d
- e las propuestas de un Pacto País y en el contexto de la campaña contra 
- los incendios forestales\, así como de la actual situación geopolítica 
- y de los mercados energéticos. Convalidación o derogación de real decre
- to-ley. Nota de prensa . Ver directo . YouTube original . YouTube traducci
- ón y subtitulado . Torrespaña 1 y 2 original y traducción. Torrespaña 
- 3 Pasillo. Torrespaña 4 Escritorio.\nSala: Hemiciclo\nFuente: congreso.es
+UID:205af1b6ba50ea1a489bd29d3d3a1b7e@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T083000Z
+DTEND:20260915T103000Z
+SUMMARY:Comisión de Hacienda y Función Pública
+LOCATION:Sala Constitucional
+DESCRIPTION:Comisión de Hacienda y Función Pública . Comparecencia de la
+  presidenta del Consejo de Transparencia y Buen Gobierno para informar sob
+ re la Memoria anual 2024 y Memoria anual 2025 \, elaboradas por el citado 
+ Consejo sobre el desarrollo de sus actividades y grado de cumplimiento. El
+ ección del vocal de transparencia\, acceso a la información pública y b
+ uen gobierno. Nota de prensa . Ver directo . YouTube . Torrespaña 2 .\nSa
+ la: Sala Constitucional\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:fd25d8a0162b1690ef4d79c5155fdba4@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260909T070000Z
-DTEND:20260909T190000Z
-SUMMARY:Mesa de la Comisión de Trabajo\, Economía Social\, Inclusión\, S
- eguridad Social y Migraciones
-LOCATION:Escritorio del Reloj (Palacio)
-DESCRIPTION:Mesa de la Comisión de Trabajo\, Economía Social\, Inclusión
- \, Seguridad Social y Migraciones.\nSala: Escritorio del Reloj (Palacio)\n
- Fuente: congreso.es
+UID:fd24dc526373ff2c7cf752e1489da88b@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T090000Z
+DTEND:20260915T110000Z
+SUMMARY:Comisión de Sanidad
+LOCATION:Sala Sagasta
+DESCRIPTION:Comisión de Sanidad . Comparecencias: 11:00 horas Miriam Torre
+ grosa Granado \, trabajadora social\, coordinadora de ayudas al movimiento
+  asociativo de la Federación Española de Enfermedades Raras (FEDER). 11:
+ 45 horas Carina Escobar Manero \, presidenta de la Plataforma de Organizac
+ iones de Pacientes (POP). 12:30 horas Andoni Lorenzo Garmendia \, presiden
+ te del Foro Español de Pacientes (FEP). Nota de Prensa . Ver directo . Yo
+ uTube . Torrespaña 3 .\nSala: Sala Sagasta\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:83b5a152afae4cfb5fe667c10f0c05a6@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260909T070000Z
-DTEND:20260909T190000Z
-SUMMARY:Mesa de la Comisión de Hacienda y Función Pública
+UID:3dd743152835d37e67fb3c3d020785b1@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T090000Z
+DTEND:20260915T110000Z
+SUMMARY:Comisión de Derechos Sociales y Consumo
+LOCATION:Sala Herrero y Rodríguez de Miñón
+DESCRIPTION:Comisión de Derechos Sociales y Consumo . Comparecencias: 11:0
+ 0 h. David Sánchez Carpio \, director de la Organización CECU\, Federaci
+ ón de Consumidores y Usuarios. 12:00 h. Adolfo Rivas Fernández \, direct
+ or-gerente de la Fundación Vinjoy. Nota de prensa . Ver directo . YouTube
+  .\nSala: Sala Herrero y Rodríguez de Miñón\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:ae349702b71db620bd6c840c7462b118@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T100000Z
+DTEND:20260915T120000Z
+SUMMARY:Junta de Portavoces
+LOCATION:Sala Mariana Pineda
+DESCRIPTION:Junta de Portavoces.\nSala: Sala Mariana Pineda\nFuente: congre
+ so.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:c99b10d1e0305932c9772466659f7087@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T103000Z
+DTEND:20260915T123000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Asuntos Exteriores
+LOCATION:Sala Lázaro Dou
+DESCRIPTION:Mesa y Portavoces de la Comisión de Asuntos Exteriores.\nSala:
+  Sala Lázaro Dou\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:d20798ce2fa53854f59ac5e0e641930f@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T103000Z
+DTEND:20260915T123000Z
+SUMMARY:Mesa y Portavoces de la Comisión para las Políticas Integrales de
+  la Discapacidad
+LOCATION:Sala Peces-Barba
+DESCRIPTION:Mesa y Portavoces de la Comisión para las Políticas Integrale
+ s de la Discapacidad.\nSala: Sala Peces-Barba\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:380768d20367d2ba864ea42b135fc64c@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T110000Z
+DTEND:20260915T130000Z
+SUMMARY:Mesa y Portavoces de la Comisión de seguimiento y evaluación de l
+ os acuerdos del Pacto de Toledo
+LOCATION:Sala Argüelles
+DESCRIPTION:Mesa y Portavoces de la Comisión de seguimiento y evaluación 
+ de los acuerdos del Pacto de Toledo.\nSala: Sala Argüelles\nFuente: congr
+ eso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3613b836fc594a547d20b83f827428@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T110000Z
+DTEND:20260915T130000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Agricultura\, Pesca y Alimenta
+ ción
+LOCATION:Sala Gabriel Cisneros
+DESCRIPTION:Mesa y Portavoces de la Comisión de Agricultura\, Pesca y Alim
+ entación.\nSala: Sala Gabriel Cisneros\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:c22062f6e5ae16b5aeeae19960dc0b5d@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T110000Z
+DTEND:20260915T130000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Industria y Turismo
+LOCATION:Sala Peces-Barba
+DESCRIPTION:Mesa y Portavoces de la Comisión de Industria y Turismo.\nSala
+ : Sala Peces-Barba\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:2edd8d9bfe17d8a2963cc18e1e5045fb@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T120000Z
+DTEND:20260915T140000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Defensa
+LOCATION:Sala Argüelles
+DESCRIPTION:Mesa y Portavoces de la Comisión de Defensa.\nSala: Sala Argü
+ elles\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:56deb22e9db4cccbf744fd2b30255c0a@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T123000Z
+DTEND:20260915T143000Z
+SUMMARY:Mesa y Portavoces de la Comisión de seguimiento y evaluación de l
+ os acuerdos del Pacto de Estado en materia de Violencia
+LOCATION:Sala Argüelles
+DESCRIPTION:Mesa y Portavoces de la Comisión de seguimiento y evaluación 
+ de los acuerdos del Pacto de Estado en materia de Violencia de Género.\nS
+ ala: Sala Argüelles\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:1e9e86ec89ba01ce0af727bca32d5338@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T123000Z
+DTEND:20260915T143000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Economía\, Comercio y Transfo
+ rmación Digital
+LOCATION:Sala Gabriel Cisneros
+DESCRIPTION:Mesa y Portavoces de la Comisión de Economía\, Comercio y Tra
+ nsformación Digital.\nSala: Sala Gabriel Cisneros\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:aca09f37cdd4fe2c9b464f94e7e8f36b@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T124500Z
+DTEND:20260915T144500Z
+SUMMARY:Ponencia encargada de las relaciones con el Consejo de Seguridad Nu
+ clear
 LOCATION:Escritorio de la Constitución (Palacio)
-DESCRIPTION:Mesa de la Comisión de Hacienda y Función Pública.\nSala: Es
- critorio de la Constitución (Palacio)\nFuente: congreso.es
+DESCRIPTION:Ponencia encargada de las relaciones con el Consejo de Segurida
+ d Nuclear . Ordenación de trabajos.\nSala: Escritorio de la Constitución
+  (Palacio)\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:d55ecf851458cf89797fe557c563bc50@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260909T070000Z
-DTEND:20260909T190000Z
+UID:74177ae6bbc98c139734ba671cc1aa9c@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T124500Z
+DTEND:20260915T144500Z
 SUMMARY:Mesa de la Comisión de Investigación sobre la gestión de la cris
  is derivada de la DANA que tuvo lugar el 29 de octubre d
-LOCATION:Sala Peces-Barba
+LOCATION:Escritorio del Reloj (Palacio)
 DESCRIPTION:Mesa de la Comisión de Investigación sobre la gestión de la 
  crisis derivada de la DANA que tuvo lugar el 29 de octubre de 2024\, así 
  como para el estudio y propuesta de medidas de mejora destinadas a paliar 
- los efectos de estos fenómenos adversos en el futuro.\nSala: Sala Peces-B
- arba\nFuente: congreso.es
+ los efectos de estos fenómenos adversos en el futuro.\nSala: Escritorio d
+ el Reloj (Palacio)\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:c904405eb512753f5034bf46bf45d147@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260909T070000Z
-DTEND:20260909T190000Z
-SUMMARY:Mesa y Portavoces de la Comisión de Derechos Sociales y Consumo
-LOCATION:Sala Gabriel Cisneros
-DESCRIPTION:Mesa y Portavoces de la Comisión de Derechos Sociales y Consum
- o.\nSala: Sala Gabriel Cisneros\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:b381c8500e4d46491a468abda8031c69@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260909T153000Z
-DTEND:20260909T173000Z
-SUMMARY:Mesa y Portavoces de la Comisión Mixta para la Unión Europea
-LOCATION:Sala Lázaro Dou
-DESCRIPTION:Mesa y Portavoces de la Comisión Mixta para la Unión Europea.
- \nSala: Sala Lázaro Dou\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:2bf322363de8d059584ecbbffab57cf4@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260910T070000Z
-DTEND:20260910T090000Z
+UID:d70d485eccb191652b42319208dc61ae@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260915T130000Z
+DTEND:20260915T150000Z
 SUMMARY:Sesión Plenaria
 LOCATION:Hemiciclo
-DESCRIPTION:Sesión Plenaria . Dictamen de comisión sobre iniciativa legis
- lativa. Proposiciones no de ley. Mociones consecuencia de interpelaciones 
- urgentes. Toma en consideración de proposiciones de ley. Dictámenes de l
- a Comisión de Asuntos Exteriores sobre convenios internacionales. Informe
-  acerca del cumplimiento del Presupuesto de la Cámara correspondiente al 
- ejercicio 2025. Declaración sobre la Cuenta General del Estado del ejerci
- cio 2024. Propuesta de creación de subcomisión. Nota de prensa . Ver dir
- ecto . YouTube original . YouTube traducción y subtitulado . Torrespaña 
- 1 y 2 original y traducción. Torrespaña 3 Pasillo. Torrespaña 4 Escrito
- rio.\nSala: Hemiciclo\nFuente: congreso.es
+DESCRIPTION:Sesión Plenaria . Toma en consideración de proposiciones de l
+ ey. Proposiciones no de ley. Mociones consecuencia de interpelaciones urge
+ ntes. Nota de prensa . Ver directo . YouTube original . YouTube traducció
+ n y subtitulado . Torrespaña 1 y 2 original y traducción. Torrespaña 3 
+ Pasillo. Torrespaña 4 Escritorio.\nSala: Hemiciclo\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:eff2fe16ce0ebe67179f74401f5a173a@congreso.es
-DTSTAMP:20260906T182555Z
-DTSTART:20260910T150000Z
-DTEND:20260910T170000Z
-SUMMARY:Acto en conmemoración del 50
-LOCATION:Sala Constitucional
-DESCRIPTION:Acto en conmemoración del 50.º aniversario de la aprobación 
- del Proyecto de Ley para la Reforma Política. Ver directo . YouTube . Tor
- respaña 3.\nSala: Sala Constitucional\nFuente: congreso.es
+UID:fafaae0b443edcfbb79de0f4d0dcbda3@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260916T063000Z
+DTEND:20260916T083000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Interior
+LOCATION:Escritorio del Reloj (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión de Interior.\nSala: Escritori
+ o del Reloj (Palacio)\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:c75bc804a1de5141e937497ca4c48f71@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260916T063000Z
+DTEND:20260916T083000Z
+SUMMARY:Mesa y Portavoces de la Comisión de Cooperación Internacional par
+ a el Desarrollo
+LOCATION:Escritorio de la Constitución (Palacio)
+DESCRIPTION:Mesa y Portavoces de la Comisión de Cooperación Internacional
+  para el Desarrollo.\nSala: Escritorio de la Constitución (Palacio)\nFuen
+ te: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:0e356451cf46c6e43b2255eacc3d279d@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260916T070000Z
+DTEND:20260916T090000Z
+SUMMARY:Sesión Plenaria
+LOCATION:Hemiciclo
+DESCRIPTION:Sesión Plenaria . Preguntas e interpelaciones. Convalidación 
+ o derogación de real decreto-ley. Enmiendas del Senado. Dictamen de la Co
+ misión del Estatuto. Nota de prensa . Ver directo . YouTube original . Yo
+ uTube traducción y subtitulad o . Torrespaña 1 y 2 original y traducció
+ n. Torrespaña 3 Pasillo. Torrespaña 4 Escritorio.\nSala: Hemiciclo\nFuen
+ te: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:7da921a1d6234226046ec2a36831cb09@congreso.es
+DTSTAMP:20260913T185106Z
+DTSTART:20260917T150000Z
+DTEND:20260917T170000Z
+SUMMARY:Acto Presentación del cómic: 17 de marzo\, la VAcUNa nos cambió 
+ la vida \, a solicitud del Grupo Parlamentario Republicano
+LOCATION:Sala Clara Campoamor
+DESCRIPTION:Acto Presentación del cómic: 17 de marzo\, la VAcUNa nos camb
+ ió la vida \, a solicitud del Grupo Parlamentario Republicano. Ver direct
+ o . Torrespaña 1.\nSala: Sala Clara Campoamor\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
