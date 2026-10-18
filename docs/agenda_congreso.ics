@@ -6,65 +6,38 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:ae2cf93464c2f22d0a1f53258630649f@congreso.es
-DTSTAMP:20261011T202512Z
-DTSTART:20261013T090000Z
-DTEND:20261013T110000Z
-SUMMARY:Mesa de la Diputacion Permanente
+UID:7c24a0f7a74b24a7d07b0b74e304b502@congreso.es
+DTSTAMP:20261018T184343Z
+DTSTART:20261020T080000Z
+DTEND:20261020T100000Z
+SUMMARY:Mesa de la Diputación Permanente
 LOCATION:Salón de Ministros
-DESCRIPTION:Mesa de la Diputacion Permanente.\nSala: Salón de Ministros\nF
- uente: congreso.es
+DESCRIPTION:Mesa de la Diputación Permanente.\nSala: Salón de Ministros\n
+ Fuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:b4905ba3aaf0eb7ecd8c3964372f3cb2@congreso.es
-DTSTAMP:20261011T202512Z
-DTSTART:20261013T103000Z
-DTEND:20261013T123000Z
-SUMMARY:Acto de homenaje a los funcionarios del Cuerpo Nacional de Policía
-  condecorados con el ingreso en la Orden del Mérito Po
-LOCATION:Ampliación III Vestíbulo
-DESCRIPTION:Acto de homenaje a los funcionarios del Cuerpo Nacional de Poli
- cía condecorados con el ingreso en la Orden del Mérito Policial Santos 
- Ángeles Custodios 2026. Nota de prensa . Ver directo . YouTube . Torrespa
- ña 1.\nSala: Ampliación III Vestíbulo\nFuente: congreso.es
+UID:f0243319fbe0bcd3976ce2a9aac09410@congreso.es
+DTSTAMP:20261018T184343Z
+DTSTART:20261020T110000Z
+DTEND:20261020T130000Z
+SUMMARY:Acto de cambio de denominación del Escritorio de Comunicación con
+  el nombre Escritorio Alfredo Pérez Rubalcaba
+LOCATION:Salón de Pasos Perdidos (Palacio)
+DESCRIPTION:Acto de cambio de denominación del Escritorio de Comunicación
+  con el nombre Escritorio Alfredo Pérez Rubalcaba . Nota de prensa . Ver 
+ directo . YouTube original. YouTube subtitulado . Torrespaña 1.\nSala: Sa
+ lón de Pasos Perdidos (Palacio)\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:b582a32d2d13c4a254c14005fb3b1b61@congreso.es
-DTSTAMP:20261011T202512Z
-DTSTART:20261015T103000Z
-DTEND:20261015T123000Z
+UID:592bc57eded878f21a22f4d8d1bc1132@congreso.es
+DTSTAMP:20261018T184343Z
+DTSTART:20261022T100000Z
+DTEND:20261022T120000Z
 SUMMARY:Junta Electoral Central
 LOCATION:Sala SERT
 DESCRIPTION:Junta Electoral Central.\nSala: Sala SERT\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:dba806454bf15f2efd5a65414794cf40@congreso.es
-DTSTAMP:20261011T202512Z
-DTSTART:20261016T073000Z
-DTEND:20261016T093000Z
-SUMMARY:Conmemoración del Día Nacional del Daño Cerebral Adquirido \, a 
- solicitud de la Federación Española de Daño Cerebral (Dañ
-LOCATION:Sala Ernest Lluch
-DESCRIPTION:Conmemoración del Día Nacional del Daño Cerebral Adquirido \
- , a solicitud de la Federación Española de Daño Cerebral (Daño Cerebra
- l Estatal). Ver directo.\nSala: Sala Ernest Lluch\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:8c531154d45fa5b1ac897f273e3523f4@congreso.es
-DTSTAMP:20261011T202512Z
-DTSTART:20261016T090000Z
-DTEND:20261016T110000Z
-SUMMARY:Diputación Permanente
-LOCATION:Sala Constitucional
-DESCRIPTION:Diputación Permanente . Convalidación o derogación de reales
-  decretos-leyes. Nota de prensa . Ver directo . YouTube original . YouTube
-  traducción y subtitulado . Torrespaña 1 y 2 original y traducción. Tor
- respaña 3 Pasillo. Torrespaña 4 declaraciones.\nSala: Sala Constituciona
- l\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
