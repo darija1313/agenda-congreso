@@ -6,38 +6,71 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:7c24a0f7a74b24a7d07b0b74e304b502@congreso.es
-DTSTAMP:20261018T184343Z
-DTSTART:20261020T080000Z
-DTEND:20261020T100000Z
-SUMMARY:Mesa de la Diputación Permanente
-LOCATION:Salón de Ministros
-DESCRIPTION:Mesa de la Diputación Permanente.\nSala: Salón de Ministros\n
- Fuente: congreso.es
+UID:47f015cefef5840a46cab33945c6b3de@congreso.es
+DTSTAMP:20261025T190836Z
+DTSTART:20261026T110000Z
+DTEND:20261026T130000Z
+SUMMARY:Ceremonia de entrega de los IX Premios de Diversidad e Inclusión \
+ , a solicitud de la Fundación Adecco
+LOCATION:Sala Constitucional
+DESCRIPTION:Ceremonia de entrega de los IX Premios de Diversidad e Inclusi
+ ón \, a solicitud de la Fundación Adecco. Ver directo. Torrespaña 1.\nS
+ ala: Sala Constitucional\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:f0243319fbe0bcd3976ce2a9aac09410@congreso.es
-DTSTAMP:20261018T184343Z
-DTSTART:20261020T110000Z
-DTEND:20261020T130000Z
-SUMMARY:Acto de cambio de denominación del Escritorio de Comunicación con
-  el nombre Escritorio Alfredo Pérez Rubalcaba
-LOCATION:Salón de Pasos Perdidos (Palacio)
-DESCRIPTION:Acto de cambio de denominación del Escritorio de Comunicación
-  con el nombre Escritorio Alfredo Pérez Rubalcaba . Nota de prensa . Ver 
- directo . YouTube original. YouTube subtitulado . Torrespaña 1.\nSala: Sa
- lón de Pasos Perdidos (Palacio)\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:592bc57eded878f21a22f4d8d1bc1132@congreso.es
-DTSTAMP:20261018T184343Z
-DTSTART:20261022T100000Z
-DTEND:20261022T120000Z
+UID:f39feeb1acf5c750ed27ee5e9f7be7c8@congreso.es
+DTSTAMP:20261025T190836Z
+DTSTART:20261026T113000Z
+DTEND:20261026T133000Z
 SUMMARY:Junta Electoral Central
 LOCATION:Sala SERT
 DESCRIPTION:Junta Electoral Central.\nSala: Sala SERT\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:04165d8a23d98c2a74d31652fda58bc8@congreso.es
+DTSTAMP:20261025T190836Z
+DTSTART:20261028T160000Z
+DTEND:20261028T180000Z
+SUMMARY:Acto de conmemoración del Día de recuerdo y homenaje a las Vícti
+ mas del Golpe Militar\, la Guerra y la Dictadura
+LOCATION:Salón de Pasos Perdidos (Palacio)
+DESCRIPTION:Acto de conmemoración del Día de recuerdo y homenaje a las V
+ íctimas del Golpe Militar\, la Guerra y la Dictadura. Ver directo . YouTu
+ be . Torrespaña 1 .\nSala: Salón de Pasos Perdidos (Palacio)\nFuente: co
+ ngreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:018b63b9a4c6500a848afdf963555fd1@congreso.es
+DTSTAMP:20261025T190836Z
+DTSTART:20261030T093000Z
+DTEND:20261030T113000Z
+SUMMARY:Presentación del documento La Amiloidosis en España: Una realidad
+  oculta por el infradiagnóstico \, a solicitud de Amiloi
+LOCATION:Sala Ernest Lluch
+DESCRIPTION:Presentación del documento La Amiloidosis en España: Una real
+ idad oculta por el infradiagnóstico \, a solicitud de Amiloidosis Visible
+ \, Asociación para la defensa de los Pacientes con Amiloidosis. Ver direc
+ to. Torrespaña 1.\nSala: Sala Ernest Lluch\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:479b9b9d7bccce3e6db5f1d5bd8c5bbb@congreso.es
+DTSTAMP:20261025T190836Z
+DTSTART:20261030T103000Z
+DTEND:20261030T123000Z
+SUMMARY:Presentación del Informe de propuestas para la mejora de la funci
+ ón directiva y de las competencias profesionales de las
+LOCATION:Sala Clara Campoamor
+DESCRIPTION:Presentación del Informe de propuestas para la mejora de la fu
+ nción directiva y de las competencias profesionales de las direcciones de
+  los centros educativos \, a solicitud de la Federación de Asociaciones d
+ e Directivos de Centros Educativos Públicos de Secundaria del Estado Espa
+ ñol (FEDADI) y de la Federación de Asociaciones de Directivas y Directiv
+ os de Educación Infantil y Primaria (FEDEIP). Ver directo. Torrespaña 2.
+ \nSala: Sala Clara Campoamor\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
