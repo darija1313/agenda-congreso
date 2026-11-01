@@ -6,71 +6,85 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Congreso de los Diputados
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:47f015cefef5840a46cab33945c6b3de@congreso.es
-DTSTAMP:20261025T190836Z
-DTSTART:20261026T110000Z
-DTEND:20261026T130000Z
-SUMMARY:Ceremonia de entrega de los IX Premios de Diversidad e Inclusión \
- , a solicitud de la Fundación Adecco
+UID:b51c27c1ed934c2613f9edebb6514f75@congreso.es
+DTSTAMP:20261101T203848Z
+DTSTART:20261103T103000Z
+DTEND:20261103T123000Z
+SUMMARY:Presentación del VI Barómetro FEDEPE \, a solicitud de la Federac
+ ión Española\, de Mujeres Directivas\, Ejecutivas\, Profesi
 LOCATION:Sala Constitucional
-DESCRIPTION:Ceremonia de entrega de los IX Premios de Diversidad e Inclusi
- ón \, a solicitud de la Fundación Adecco. Ver directo. Torrespaña 1.\nS
- ala: Sala Constitucional\nFuente: congreso.es
+DESCRIPTION:Presentación del VI Barómetro FEDEPE \, a solicitud de la Fed
+ eración Española\, de Mujeres Directivas\, Ejecutivas\, Profesionales y 
+ Empresarias (FEDEPE). Ver directo. Torrespaña 1 .\nSala: Sala Constitucio
+ nal\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:f39feeb1acf5c750ed27ee5e9f7be7c8@congreso.es
-DTSTAMP:20261025T190836Z
-DTSTART:20261026T113000Z
-DTEND:20261026T133000Z
+UID:3f308861680a3b57f908f77c8f307f8f@congreso.es
+DTSTAMP:20261101T203848Z
+DTSTART:20261103T160000Z
+DTEND:20261103T180000Z
+SUMMARY:Diputación Permanente
+LOCATION:Sala Constitucional
+DESCRIPTION:Diputación Permanente . Comparecencia\, a petición propia\, d
+ el ministro de Transportes y Movilidad Sostenible para explicar la gestió
+ n del Gobierno ante el grave accidente ferroviario ocurrido en Urda (Toled
+ o) el 28 de octubre de 2026. Nota de prensa . Ver directo . YouTube origin
+ al . YouTube traducción y subtitulado . Torrespaña 1 y 2 original y trad
+ ucción. Torrespaña 3 Pasillo. Torrespaña 4 declaraciones.\nSala: Sala C
+ onstitucional\nFuente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:3d244bab90df31a31beabf1204c5f811@congreso.es
+DTSTAMP:20261101T203848Z
+DTSTART:20261104T160000Z
+DTEND:20261104T180000Z
+SUMMARY:Acto con motivo del Día de recuerdo y homenaje a las Víctimas del
+  Golpe Militar\, la Guerra y la Dictadura
+LOCATION:Salón de Pasos Perdidos (Palacio)
+DESCRIPTION:Acto con motivo del Día de recuerdo y homenaje a las Víctimas
+  del Golpe Militar\, la Guerra y la Dictadura. Nota de prensa . Ver direct
+ o . YouTube . Torrespaña 1.\nSala: Salón de Pasos Perdidos (Palacio)\nFu
+ ente: congreso.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:f8042516b4499416116508c56daa1be4@congreso.es
+DTSTAMP:20261101T203848Z
+DTSTART:20261105T083000Z
+DTEND:20261105T103000Z
+SUMMARY:I Congreso de Administradores Civiles del Estado \, a solicitud de 
+ la Asociación del Cuerpo Superior de Administradores C
+LOCATION:Sala Ernest Lluch
+DESCRIPTION:I Congreso de Administradores Civiles del Estado \, a solicitud
+  de la Asociación del Cuerpo Superior de Administradores Civiles del Esta
+ do. Ver directo . Torrespaña 1 .\nSala: Sala Ernest Lluch\nFuente: congre
+ so.es
+URL:https://www.congreso.es/es/agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:f194df723d1c8ef7be871fe8f40a7d09@congreso.es
+DTSTAMP:20261101T203848Z
+DTSTART:20261105T110000Z
+DTEND:20261105T130000Z
 SUMMARY:Junta Electoral Central
 LOCATION:Sala SERT
 DESCRIPTION:Junta Electoral Central.\nSala: Sala SERT\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:04165d8a23d98c2a74d31652fda58bc8@congreso.es
-DTSTAMP:20261025T190836Z
-DTSTART:20261028T160000Z
-DTEND:20261028T180000Z
-SUMMARY:Acto de conmemoración del Día de recuerdo y homenaje a las Vícti
- mas del Golpe Militar\, la Guerra y la Dictadura
-LOCATION:Salón de Pasos Perdidos (Palacio)
-DESCRIPTION:Acto de conmemoración del Día de recuerdo y homenaje a las V
- íctimas del Golpe Militar\, la Guerra y la Dictadura. Ver directo . YouTu
- be . Torrespaña 1 .\nSala: Salón de Pasos Perdidos (Palacio)\nFuente: co
- ngreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:018b63b9a4c6500a848afdf963555fd1@congreso.es
-DTSTAMP:20261025T190836Z
-DTSTART:20261030T093000Z
-DTEND:20261030T113000Z
-SUMMARY:Presentación del documento La Amiloidosis en España: Una realidad
-  oculta por el infradiagnóstico \, a solicitud de Amiloi
+UID:ffecd881669ee685831b2dec28ede37d@congreso.es
+DTSTAMP:20261101T203848Z
+DTSTART:20261106T080000Z
+DTEND:20261106T100000Z
+SUMMARY:IX edición del Congreso Nacional contra la Muerte Súbita \, a sol
+ icitud de la Fundación QUAES\, en colaboración con la Aso
 LOCATION:Sala Ernest Lluch
-DESCRIPTION:Presentación del documento La Amiloidosis en España: Una real
- idad oculta por el infradiagnóstico \, a solicitud de Amiloidosis Visible
- \, Asociación para la defensa de los Pacientes con Amiloidosis. Ver direc
- to. Torrespaña 1.\nSala: Sala Ernest Lluch\nFuente: congreso.es
-URL:https://www.congreso.es/es/agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:479b9b9d7bccce3e6db5f1d5bd8c5bbb@congreso.es
-DTSTAMP:20261025T190836Z
-DTSTART:20261030T103000Z
-DTEND:20261030T123000Z
-SUMMARY:Presentación del Informe de propuestas para la mejora de la funci
- ón directiva y de las competencias profesionales de las
-LOCATION:Sala Clara Campoamor
-DESCRIPTION:Presentación del Informe de propuestas para la mejora de la fu
- nción directiva y de las competencias profesionales de las direcciones de
-  los centros educativos \, a solicitud de la Federación de Asociaciones d
- e Directivos de Centros Educativos Públicos de Secundaria del Estado Espa
- ñol (FEDADI) y de la Federación de Asociaciones de Directivas y Directiv
- os de Educación Infantil y Primaria (FEDEIP). Ver directo. Torrespaña 2.
- \nSala: Sala Clara Campoamor\nFuente: congreso.es
+DESCRIPTION:IX edición del Congreso Nacional contra la Muerte Súbita \, a
+  solicitud de la Fundación QUAES\, en colaboración con la Asociación Es
+ pañola contra la Muerte José Durán #7. Ver directo . Torrespaña 1 .\nS
+ ala: Sala Ernest Lluch\nFuente: congreso.es
 URL:https://www.congreso.es/es/agenda
 END:VEVENT
 END:VCALENDAR
